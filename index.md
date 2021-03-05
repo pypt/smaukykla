@@ -60,7 +60,7 @@ Modelį taip pat būtų galima pradžioje išmėginti tik su vienu vakcinavimo p
 * **Vakcinavimo punktai išmėgins turimus resursus ir turės progą ištaisyti klaidas prieš masinę vakcinaciją.**
 * **Bus vakcinuota daugiau žmonių per tą patį laiką.**
 * **Bus vakcinuota žmonių grupė, kuri nori vakcinuotis, laukia vakcinos, ja neabejoja ir yra pasirengę vakcinos nauda pasidalinti su kitais.**
-* **Dalis vakcinos skeptikų
+* **Dalis vakcinos skeptikų tokiais nebeliks išvydę vakcinos paklausą.**
 
 
 ## PASIRAŠYTI PETICIJĄ
