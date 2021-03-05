@@ -8,7 +8,14 @@
 
 ## Aprašymas
 
-Stebint pastarųjų dienų skiepijimo nuo COVID-19 situaciją Lietuvoje, akivaizdu, kad yra plačiai atidaryta erdvi, moderni, 
+Stebint pastarųjų dienų skiepijimo nuo COVID-19 situaciją Lietuvoje, akivaizdu, kad yra plačiai atidaryta erdvi respublikinė **smaukykla** (angl. *circlejerk*):
+
+* Kanclerė [neina lengviausiu keliu, bet pažeidžiamiausieji neina skiepytis](https://www.15min.lt/naujiena/aktualu/lietuva/sam-kanclere-stengiames-nenueiti-lengviausiu-keliu-ir-pirma-skiepijame-pazeidziamiausius-56-1466252);
+* Metus sėdint prie teliko neužteko laiko apsišviesti dėl vakcinų poveikio, [reikia dar vienos švietimo kampanijos](https://www.lrt.lt/naujienos/lietuvoje/2/1356241/profesorius-perspeja-del-kylanciu-gresmiu-turime-kuo-greiciau-pradeti-svietimo-kampanija-kad-neutralizuotume-pandemiju-neigejus);
+* Skiepijimo centrai [turi per daug vakcinų ir per mažai norinčių iš tikslinės amžiaus grupės](https://www.lrt.lt/naujienos/sveikata/682/1357802/skiepijimo-centrams-nespejant-panaudoti-vakcinu-zadama-aktyviau-vakcinuoti-ir-savaitgaliais);
+* Šalčininkuose [persižiūrėjo "Первый Балтийский" ir vakcinuosis tik Sputniku ir tik pas Batką](https://www.lrt.lt/naujienos/lietuvoje/2/1358744/nuo-covid-19-skuba-skiepytis-ne-visi-dalis-salcininku-gyventoju-laukia-sputnik-v-vakcinos-del-jos-vaziuotu-ir-i-baltarusija);
+* Kiti į vakcinaciją [tiesiog neateina](https://www.lrt.lt/naujienos/sveikata/682/1355361/kol-vakcinacija-nuo-covid-19-isibegeja-klaipedoje-issukiu-kelia-nepasirodantys-asmenys-ir-popierizmas).
+
 
 
 
@@ -17,8 +24,9 @@ Stebint pastarųjų dienų skiepijimo nuo COVID-19 situaciją Lietuvoje, akivaiz
 Peticiją iki **FIXME** datos prašau **pasirašyti sertifikuotu elektroniniu parašu** ir **atsiųsti man**:
 
 1. Atsisiųskite mano pasirašytą bylą **[`covid-peticija.pdf`](covid-peticija.pdf)**;
-2. **Pasirašykite** bylą su "GoSign", "Dokobit" (žr. instrukcijas apačioje) ar kita pasirašymo priemone;
-3. Atsiųskite **mano ir jūsų kartu** pasirašytą bylą man el. pašto adresu **[mailto:linas.valiukas@gmail.com?subject=Smaukykla]**; el. laiško temoje būtinai įrašykite raktažodį "**Smaukykla**".
+2. **Perskaitykite** peticiją ir įsitikinkite, kad sutinkate su joje išdėstytais prašymais;
+3. **Pasirašykite** bylą su "GoSign", "Dokobit" (žr. instrukcijas apačioje) ar kita pasirašymo priemone;
+4. Atsiųskite **mano ir jūsų kartu** pasirašytą bylą man el. pašto adresu **[mailto:linas.valiukas@gmail.com?subject=Smaukykla]**; el. laiško temoje būtinai įrašykite raktažodį "**Smaukykla**".
 
 
 ### "GoSign" instrukcija
@@ -58,6 +66,11 @@ Aš pinigų, skirtų sumokėti už kiekvieno iš pasirašančiųjų elektroninį
 2. Dokumentą su savo pasirašytu peticijos tekstu atsisiųskite ir pasirašykite jį patys; ant dokumento tuomet atguls du parašai - mano ir jūsų;
 3. Savo pasirašytą peticiją atsiųskite man;
 4. Surinkęs visus pasirašytus dokumentus nurodytą datą juos nusiųsiu į Sveikatos apsaugos ministeriją.
+
+
+### Bet tai jeigu savo laiške SAM rašysi žodį "smaukykla", tai gali nelabai rimtai į tave pažiūrėti
+
+Na tai gal tada žodžio "smaukykla" nerašysiu.
 
 
 ### Ar rimtai nepanaudotą vakciną išmeta?
