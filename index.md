@@ -1,37 +1,63 @@
-## Welcome to GitHub Pages
+# Uždarykime smaukyklą COVID-19 skiepijime!
 
-You can use the [editor on GitHub](https://github.com/pypt/smaukykla/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Dabartinis smaukyklos statusas
 
-### Markdown
+Šiuo metu (2021 m. kovo 5 d.) smaukykla yra vis dar **atidaryta**.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## PASIRAŠYTI PETICIJĄ
 
-**Bold** and _Italic_ and `Code` text
+Daug kas esam "pasirašinėję" peticiją viename iš tam skirtų tinklalapių - už / prieš šuniukus, gėjus, 420, 69, vaiko pinigus, musulmonus, transvestitus, "Maximą" ir kt. Deja, visi tiesiog veltui sugaišome laiką - tos peticijos buvo niekinės, nes nebuvo pasirašytos nei tušinuku, nei elektroniniu parašu.
 
-[Link](url) and ![Image](src)
-```
+Dabartinė Peticijų įstatymo redakcija [leidžia](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.84574?jfwid=5sjolfznc) pasirašyti peticiją ir elektroniniu būdu, bet nėra nė vieno tinklapio, kuris leistų tai padaryti. Man atrodo, žinau kodėl - elektroninis parašas kainuoja [pinigus](https://www.dokobit.com/lt/kainos), taigi privačios įmonės nenori mokėti už jūsų peticijos parašus, o viešasis sektorius išvis ne itin suinteresuotas, kad jūs kažką ten pasirašinėtumėt, siųstumėt ir jiems tuomet reikėtų tai svarstyti.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Aš pinigų, skirtų sumokėti už kiekvieno iš pasirašančiųjų elektroninį parašą ant vieno ir to paties dokumento, irgi neturiu, taigi siūlau peticiją pasirašyti šitaip:
 
-### Jekyll Themes
+1. Ant parengto peticijos teksto visų pirma pasirašau aš; tai apsaugos nuo to, kad peticijos tekstas vėliau būtų pakeistas;
+2. Dokumentą su savo pasirašytu peticijos tekstu atsisiųskite ir pasirašykite jį patys; ant dokumento tuomet atguls du parašai - mano ir jūsų;
+3. Savo pasirašytą peticiją atsiųskite man;
+4. Surinkęs visus pasirašytus dokumentus nurodytą datą juos nusiųsiu į Sveikatos apsaugos ministeriją.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pypt/smaukykla/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Klausimai - atsakymai
+
+
+### Ar nori atimti iš babytės skiepą?
+
+Ne - babytė kaip turėjo galimybę pasiskiepyti prieš mane, jaunuolį, taip ir turės toliau. Noriu papildomai motyvuoti babytę nueiti pasiskiepyti, kad babytės pagaliau taptų suskiepytos, o tada mano tėvai, ir gal kažkada jau ir aš.
+
+
+### Ar čia Latvių gatvės psy-opsas?
+
+Ne.
+
+
+### Ar rimtai nepanaudotą vakciną išmeta?
+
+Nežinau - jūs man pasakykit. Man atrodo, kad skiepyjantys apie tai nenori šnekėti, o spaudos atstovai prisibijo klausti. Vasario 26 d. publikuotame straipsnyje teigiama, kad [80% "AstraZeneca" vakcinos dozių nepanaudota](https://www.15min.lt/naujiena/aktualu/pasaulis/tyrimas-80-proc-i-es-atgabentu-astrazeneca-vakcinos-doziu-dar-nepanaudota-57-1462530); na, ji bent jau [galioja šešis mėnesius](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/963838/AZD1222_Information_for_Healthcare_Professionals_-_22-02-2021.pdf) ir ją nesudėtinga laikyti, bet štai koks "Pfizer", išimtas iš šaldytuvo, turi būti suleistas [per penkias dienas](https://www.hse.ie/eng/health/immunisation/hcpinfo/covid19vaccineinfo4hps/pres5.pdf).
+
+
+### Kaip atšaukti savo parašą?
+
+Jokių problemų - parašykite <FIXME@FIXME.lt>. Vis dėlto, turėkite omenyje, kad FIXME dieną peticiją siųsiu Sveikatos apsaugos ministerijai, tad jeigu norėsite atšaukti savo parašą po šios datos, turėsite kreiptis tiesiai ten.
+
+
+### Kas tu toks?
+
+Aš esu Linas Valiukas, vilnietis, žurnalistas pagal išsilavinimą ir programuotojas pagal profesiją. Esu už vakcinas ir prieš smaukyklas. Su manimi galite susisiekti [el. paštu](mailto:linas.valiukas@gmail.com)
+
+
+## Privatumas
+
+Jeigu nuspręsite pasirašyti mano paruoštą peticiją ir ją atsiųsti man, aš gausiu dokumentą, kuriame bus įrašytas jūsų vardas, pavardė, el. pašto adresas (ne visada) ir asmens kodas. Tai yra standartinė informacija, kuri įrašoma į visus sertifikuotu elektroniniu parašu pasirašomus dokumentus.
+
+Kadangi jūsų pasirašytą dokumentą pirmasis pasirašiau aš, dokumento paraše galite rasti ir mano vardą, pavardę bei asmens kodą, todėl (**pajuokaujant!**) jeigu aš, naudodamasis šiais duomenimis apie jus, sugebėsiu paimti greitąjį kreditą ant jūsų, tai jūs tada galėsite paimti greitąjį kreditą atgal ant manęs :)
+
+Juokai juokais, bet jūsų asmens duomenų **nenaudosiu niekur kitur** išskyrus aukščiau aprašytos peticijos pateikimą Sveikatos apsaugos ministerijai. Duomenų neperduosiu šalims, nesusijusiomis su peticijos pateikimu, nepadovanosiu, neparduosiu, nerodysiu draugeliams, neskaitysiu pavardžių ir nežvengsiu, žodžiu, nepadarysiu su jais CityBee.
+
+Įsitikinęs, kad peticija priimta ir daugiau surinktų duomenų (pasirašytų peticijos kopijų) nebereikės, ištrinsiu visas turimas peticijos kopijas, o tuo pačiu ir jūsų asmens duomenis.
