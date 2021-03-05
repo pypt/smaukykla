@@ -3,7 +3,7 @@
 
 ## Dabartinis smaukyklos statusas
 
-Šiuo metu (2021 m. kovo 5 d.) smaukykla yra vis dar **atidaryta**.
+Šiuo metu (2021 m. kovo 5 d.) smaukykla COVID-19 skiepijime vis dar yra **atidaryta**.
 
 
 
@@ -11,18 +11,7 @@
 
 ## PASIRAŠYTI PETICIJĄ
 
-Daug kas esam "pasirašinėję" peticiją viename iš tam skirtų tinklalapių - už / prieš šuniukus, gėjus, 420, 69, vaiko pinigus, musulmonus, transvestitus, "Maximą" ir kt. Deja, visi tiesiog veltui sugaišome laiką - tos peticijos buvo niekinės, nes nebuvo pasirašytos nei tušinuku, nei elektroniniu parašu.
-
-Dabartinė Peticijų įstatymo redakcija [leidžia](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.84574?jfwid=5sjolfznc) pasirašyti peticiją ir elektroniniu būdu, bet nėra nė vieno tinklapio, kuris leistų tai padaryti. Man atrodo, žinau kodėl - elektroninis parašas kainuoja [pinigus](https://www.dokobit.com/lt/kainos), taigi privačios įmonės nenori mokėti už jūsų peticijos parašus, o viešasis sektorius išvis ne itin suinteresuotas, kad jūs kažką ten pasirašinėtumėt, siųstumėt ir jiems tuomet reikėtų tai svarstyti.
-
-Aš pinigų, skirtų sumokėti už kiekvieno iš pasirašančiųjų elektroninį parašą ant vieno ir to paties dokumento, irgi neturiu, taigi siūlau peticiją pasirašyti šitaip:
-
-1. Ant parengto peticijos teksto visų pirma pasirašau aš; tai apsaugos nuo to, kad peticijos tekstas vėliau būtų pakeistas;
-2. Dokumentą su savo pasirašytu peticijos tekstu atsisiųskite ir pasirašykite jį patys; ant dokumento tuomet atguls du parašai - mano ir jūsų;
-3. Savo pasirašytą peticiją atsiųskite man;
-4. Surinkęs visus pasirašytus dokumentus nurodytą datą juos nusiųsiu į Sveikatos apsaugos ministeriją.
-
-
+FIXME
 
 ## Klausimai - atsakymai
 
@@ -35,6 +24,20 @@ Ne - babytė kaip turėjo galimybę pasiskiepyti prieš mane, jaunuolį, taip ir
 ### Ar čia Latvių gatvės psy-opsas?
 
 Ne.
+
+
+### O tai negalim ten paprastai per kokį peticijos.lt pasirašyti?
+
+Daug kas esam "pasirašinėję" peticiją viename iš tam skirtų tinklalapių - už / prieš šuniukus, gėjus, 420, 69, vaiko pinigus, musulmonus, transvestitus, "Maximą" ir kt. Deja, visi tiesiog veltui sugaišome laiką - tos peticijos buvo niekinės, nes nebuvo pasirašytos nei tušinuku, nei elektroniniu parašu.
+
+Dabartinė Peticijų įstatymo redakcija [leidžia](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.84574?jfwid=5sjolfznc) pasirašyti peticiją ir elektroniniu būdu, bet nėra nė vieno tinklapio, kuris leistų tai padaryti. Man atrodo, žinau kodėl - elektroninis parašas kainuoja [pinigus](https://www.dokobit.com/lt/kainos), taigi privačios įmonės nenori mokėti už jūsų peticijos parašus, o viešasis sektorius išvis ne itin suinteresuotas, kad jūs kažką ten pasirašinėtumėt, siųstumėt ir jiems tuomet reikėtų tai svarstyti.
+
+Aš pinigų, skirtų sumokėti už kiekvieno iš pasirašančiųjų elektroninį parašą ant vieno ir to paties dokumento, irgi neturiu, taigi siūlau peticiją pasirašyti šitaip:
+
+1. Ant parengto peticijos teksto visų pirma pasirašau aš; tai apsaugos nuo to, kad peticijos tekstas vėliau būtų pakeistas;
+2. Dokumentą su savo pasirašytu peticijos tekstu atsisiųskite ir pasirašykite jį patys; ant dokumento tuomet atguls du parašai - mano ir jūsų;
+3. Savo pasirašytą peticiją atsiųskite man;
+4. Surinkęs visus pasirašytus dokumentus nurodytą datą juos nusiųsiu į Sveikatos apsaugos ministeriją.
 
 
 ### Ar rimtai nepanaudotą vakciną išmeta?
@@ -57,6 +60,10 @@ Aš esu Linas Valiukas, vilnietis, žurnalistas pagal išsilavinimą ir programu
 Jeigu nuspręsite pasirašyti mano paruoštą peticiją ir ją atsiųsti man, aš gausiu dokumentą, kuriame bus įrašytas jūsų vardas, pavardė, el. pašto adresas (ne visada) ir asmens kodas. Tai yra standartinė informacija, kuri įrašoma į visus sertifikuotu elektroniniu parašu pasirašomus dokumentus.
 
 Kadangi jūsų pasirašytą dokumentą pirmasis pasirašiau aš, dokumento paraše galite rasti ir mano vardą, pavardę bei asmens kodą, todėl (**pajuokaujant!**) jeigu aš, naudodamasis šiais duomenimis apie jus, sugebėsiu paimti greitąjį kreditą ant jūsų, tai jūs tada galėsite paimti greitąjį kreditą atgal ant manęs :)
+
+Štai kaip atrodo tie asmens duomenys:
+
+![Asmens duomenų pavyzdys](asmens-duomenu-pavyzdys.png)
 
 Juokai juokais, bet jūsų asmens duomenų **nenaudosiu niekur kitur** išskyrus aukščiau aprašytos peticijos pateikimą Sveikatos apsaugos ministerijai. Duomenų neperduosiu šalims, nesusijusiomis su peticijos pateikimu, nepadovanosiu, neparduosiu, nerodysiu draugeliams, neskaitysiu pavardžių ir nežvengsiu, žodžiu, nepadarysiu su jais CityBee.
 
