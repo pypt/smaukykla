@@ -8,15 +8,18 @@
 
 ## Aprašymas
 
-Stebint pastarųjų dienų skiepijimo nuo COVID-19 situaciją Lietuvoje, akivaizdu, kad yra plačiai atidaryta erdvi respublikinė **smaukykla** (angl. *circlejerk*):
+Stebint pastarųjų dienų skiepijimo nuo COVID-19 situaciją Lietuvoje, akivaizdu, kad yra plačiai atidaryta erdvi respublikinė **smaukykla**:
 
 * Kanclerė [neina lengviausiu keliu, bet pažeidžiamiausieji neina skiepytis](https://www.15min.lt/naujiena/aktualu/lietuva/sam-kanclere-stengiames-nenueiti-lengviausiu-keliu-ir-pirma-skiepijame-pazeidziamiausius-56-1466252);
 * Metus sėdint prie teliko neužteko laiko apsišviesti dėl vakcinų poveikio, [reikia dar vienos švietimo kampanijos](https://www.lrt.lt/naujienos/lietuvoje/2/1356241/profesorius-perspeja-del-kylanciu-gresmiu-turime-kuo-greiciau-pradeti-svietimo-kampanija-kad-neutralizuotume-pandemiju-neigejus);
 * Skiepijimo centrai [turi per daug vakcinų ir per mažai norinčių iš tikslinės amžiaus grupės](https://www.lrt.lt/naujienos/sveikata/682/1357802/skiepijimo-centrams-nespejant-panaudoti-vakcinu-zadama-aktyviau-vakcinuoti-ir-savaitgaliais);
 * Šalčininkuose [persižiūrėjo "Первый Балтийский" ir vakcinuosis tik Sputniku ir tik pas Batką](https://www.lrt.lt/naujienos/lietuvoje/2/1358744/nuo-covid-19-skuba-skiepytis-ne-visi-dalis-salcininku-gyventoju-laukia-sputnik-v-vakcinos-del-jos-vaziuotu-ir-i-baltarusija);
-* Kiti į vakcinaciją [tiesiog neateina](https://www.lrt.lt/naujienos/sveikata/682/1355361/kol-vakcinacija-nuo-covid-19-isibegeja-klaipedoje-issukiu-kelia-nepasirodantys-asmenys-ir-popierizmas).
+* Kol vieni laukia masinės vakcinacijos gal-rudenį-gal-žiemą-gal-pavasarį-gal-kitą-rudenį, kiti į vakcinaciją [tiesiog neateina](https://www.lrt.lt/naujienos/sveikata/682/1355361/kol-vakcinacija-nuo-covid-19-isibegeja-klaipedoje-issukiu-kelia-nepasirodantys-asmenys-ir-popierizmas).
 
+Ši smaukykla, nors ir vykdoma vardan vyresnio amžiaus žmonių, neišeis į gerą vyresniam, o ypač jaunesniam:
 
+* **Smaukykla brangiai kainuoja.** Kol senolis svarsto, kuo tikėti - reklama stotelėje ar pamėgtu rusišku TV kanalu - valstybė yra priversta mokėti subsidijas negalintiems veikti verslams, dalinti bedarbio pašalpas darbą praradusiems; visgi, tikroji kaina paaiškės vėliau, kai visiems reikės mokesčių forma "atkalti" pandemijai suvaldyti ES atspausdintus eurus iš oro;
+* **Smaukykla priešina kartas.** Jaunuolis bus mažiau linkęs mokėti Valstybinio socialinio draudimo įmoką, jeigu matys, kad senolis nesusikapštė nuvykti iki poliklinikos, nes buvo šalta.
 
 
 ## PASIRAŠYTI PETICIJĄ
