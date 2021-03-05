@@ -3,7 +3,12 @@
 
 ## Dabartinis smaukyklos statusas
 
-Šiuo metu (2021 m. kovo 5 d.) smaukykla COVID-19 skiepijime vis dar yra **atidaryta**.
+Šiuo metu (2021 m. kovo 6 d.) smaukykla COVID-19 skiepijime vis dar yra **atidaryta**.
+
+
+## Smaukyklos uždarymo peticijos chronologija
+
+* 2021-03-06: Parengta pirminė smaukyklos uždarymo svetainės versija.
 
 
 ## Aprašymas
@@ -21,13 +26,41 @@ Stebint pastarųjų dienų skiepijimo nuo COVID-19 situaciją Lietuvoje, akivaiz
 * **Smaukykla brangiai kainuoja.** Kol senolis svarsto, kuo tikėti - reklama stotelėje ar pamėgtu rusišku TV kanalu - valstybė yra priversta mokėti subsidijas negalintiems veikti verslams, dalinti bedarbio pašalpas darbą praradusiems; visgi, tikroji kaina paaiškės vėliau, kai visiems reikės mokesčių forma "atkalti" pandemijai suvaldyti ES atspausdintus eurus iš oro;
 * **Smaukykla priešina kartas.** Jaunuolis bus mažiau linkęs mokėti Valstybinio socialinio draudimo įmoką, jeigu matys, kad senolis nesusikapštė nuvykti iki poliklinikos, nes buvo šalta.
 * **Smaukykla pakankamai nemotyvuoja senolių.** Senolis gal ir nebūtų prieš skiepytis, jis tik dėka propagandos sukeltos abejonės nenori būti pirmas (kaip jam atrodo) ir yra linkęs geriau pasėdėti ir pažiūrėti kaip bus; senoliui atrodo, kad jam skubos nėra, vakcina jam visada bus paruošta, iš poliklinikos paskambins dar ir dar kartą, tai galima ir pavasario palaukti.
+* **Smaukykla atveria daug nepatogių etinių klausimų.** Valstybė yra priversta nuspręsti, kas vertesnis gyventi - aštuoniasdešimtmetis senolis be didesnių ligų ar penkiasdešimtmetis diabetikas; šešiasdešimt penkerių metų buvusi aukšta valstybės pareigūnė ar šešiasdešimt ketverių ligoninės rūbininkė.
 
 
 ## Peticijos siūlymas
 
 Šia peticija siūloma pamėginti **uždaryti smaukyklą** paprastu, efektyviu ir kompromisiniu būdu:
 
+**Vakarais skiepyti visas amžiaus grupes likusia nepanaudota vakcina.**
 
+Šią praktiką [taiko Izraelis](https://www.lrt.lt/naujienos/sveikata/682/1331207/vakcinavimo-eiles-rebusas-kodel-izraelis-skuba-skiepyti-moksleivius-o-indonezija-neskiepija-senjoru) - prie vakcinavimo punktų stovi gyva eilė, o punktui baigus darbą ir jame likus vakcinų, vakcinuojami visi norintys nepriklausomai nuo amžiaus grupės ar sveikatos būklės.
+
+
+### Siūlomas vakcinavimo organizavimas
+
+Peticijoje siūlome nutraukti smaukyklinę praktiką - **maldavimą, įtikinėjimą, dūsavimą, rankų grąžymą, socialinių tinklų kaltinimą** - ir rekomenduojame pritaikyti šį vakcinavimo organizavimo modelį kiekvienam vakcinavimo punktui:
+
+1. Apskaičiuojamas kiekis vakcinų, kurias galima panaudoti per dieną kiekviename vakcinavimo punkte priklausomai nuo punkto pajėgumų ir turimų vakcinų kiekio, bet **neatsižvelgiant** į tą dieną norinčių skiepytis iš prioritetinės grupės skaičių;
+2. Kiekvienam norinčiam skiepytis iš prioritetinės grupės priskiriama tos dienos vieta eilėje;
+3. Dienos metu skiepijami tą dieną pakviesti ir atvykę prioritetinės grupės asmenys;
+4. Dienos pabaigoje skiepijami visi norintys, naudojant likusias vakcinas iš tos dienos normos;
+5. Prioritetinės grupės asmuo išlaiko savo pirmumo teisę į skiepą:
+    1. Prioritetinės grupės asmuo, pakviestas ir neatvykęs savo paskirtos dienos metu, gali atvykti dienos pabaigoje ir be eilės gauti skiepą.
+    2. Prioritetinės grupės asmuo, pakviestas ir neatvykęs nei savo paskirtos dienos metu, nei vakare, gali kreiptis į sveikatos priežiūros įstaigą ir suplanuoti kitą vizitą vakcinacijai (priklausomai nuo turimų vakcinų kiekio).
+
+Modelį taip pat būtų galima pradžioje išmėginti tik su vienu vakcinavimo punktu, pvz. viena poliklinika.
+
+
+### Privalumai
+
+* **Prioritetinės grupės (senoliai) daug noriau skiepysis dėl jaučiamos konkurencijos.**
+* **Vakciną galės gauti bent maža dalis jaunesnių, bet rimtomis ligomis sergančiųjų.**
+* **Vakcinavimo punktai išmėgins turimus resursus ir turės progą ištaisyti klaidas prieš masinę vakcinaciją.**
+* **Bus vakcinuota daugiau žmonių per tą patį laiką.**
+* **Bus vakcinuota žmonių grupė, kuri nori vakcinuotis, laukia vakcinos, ja neabejoja ir yra pasirengę vakcinos nauda pasidalinti su kitais.**
+* **Dalis vakcinos skeptikų
 
 
 ## PASIRAŠYTI PETICIJĄ
@@ -67,7 +100,7 @@ Ne.
 
 ### O tai negalim ten paprastai per kokį peticijos.lt pasirašyti?
 
-Daug kas esam "pasirašinėję" peticiją viename iš tam skirtų tinklalapių - už / prieš šuniukus, gėjus, 420, 69, vaiko pinigus, musulmonus, transvestitus, "Maximą" ir kt. Deja, visi tiesiog veltui sugaišome laiką - tos peticijos buvo niekinės, nes nebuvo pasirašytos nei tušinuku, nei elektroniniu parašu.
+Daug kas esam "pasirašinėję" peticiją viename iš tam skirtų tinklalapių - už / prieš šuniukus, gėjus, 420, 69, vaiko pinigus, musulmonus, transvestitus, Stambulo konvenciją, "Maximą" ir kt. Deja, visi tiesiog veltui sugaišome laiką - tos peticijos buvo niekinės, nes nebuvo pasirašytos nei tušinuku, nei elektroniniu parašu.
 
 Dabartinė Peticijų įstatymo redakcija [leidžia](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.84574?jfwid=5sjolfznc) pasirašyti peticiją ir elektroniniu būdu, bet nėra nė vieno tinklapio, kuris leistų tai padaryti. Man atrodo, žinau kodėl - elektroninis parašas kainuoja [pinigus](https://www.dokobit.com/lt/kainos), taigi privačios įmonės nenori mokėti už jūsų peticijos parašus, o viešasis sektorius išvis ne itin suinteresuotas, kad jūs kažką ten pasirašinėtumėt, siųstumėt ir jiems tuomet reikėtų tai svarstyti.
 
@@ -86,7 +119,16 @@ Na tai gal tada žodžio "smaukykla" nerašysiu.
 
 ### Ar rimtai nepanaudotą vakciną išmeta?
 
-Nežinau - jūs man pasakykit. Man atrodo, kad skiepyjantys apie tai nenori šnekėti, o spaudos atstovai prisibijo klausti. Vasario 26 d. publikuotame straipsnyje teigiama, kad [80% "AstraZeneca" vakcinos dozių nepanaudota](https://www.15min.lt/naujiena/aktualu/pasaulis/tyrimas-80-proc-i-es-atgabentu-astrazeneca-vakcinos-doziu-dar-nepanaudota-57-1462530); na, ji bent jau [galioja šešis mėnesius](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/963838/AZD1222_Information_for_Healthcare_Professionals_-_22-02-2021.pdf) ir ją nesudėtinga laikyti, bet štai koks "Pfizer", išimtas iš šaldytuvo, turi būti suleistas [per penkias dienas](https://www.hse.ie/eng/health/immunisation/hcpinfo/covid19vaccineinfo4hps/pres5.pdf).
+Nežinau - jūs man pasakykit. Man atrodo, kad skiepijantys apie tai nenori šnekėti, o spaudos atstovai prisibijo klausti. Vasario 26 d. publikuotame straipsnyje teigiama, kad [80% "AstraZeneca" vakcinos dozių nepanaudota](https://www.15min.lt/naujiena/aktualu/pasaulis/tyrimas-80-proc-i-es-atgabentu-astrazeneca-vakcinos-doziu-dar-nepanaudota-57-1462530); na, ji bent jau [galioja šešis mėnesius](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/963838/AZD1222_Information_for_Healthcare_Professionals_-_22-02-2021.pdf) ir ją nesudėtinga laikyti, bet štai koks "Pfizer", išimtas iš šaldytuvo, turi būti suleistas [per penkias dienas](https://www.hse.ie/eng/health/immunisation/hcpinfo/covid19vaccineinfo4hps/pres5.pdf).
+
+
+### Nenoriu tau siųsti jokių pasirašytų peticijų, nes paimsi greitąjį kreditą mano vardu!
+
+Nepaimsiu (žr. skyrių "Privatumas"), bet peticiją galite nusiųsti tiesiai SAM:
+
+* <ministerija@sam.lt>
+
+Tik galbūt laiške neminėkite mūsų įvestojo termino "Smaukykla".
 
 
 ### Kaip atšaukti savo parašą?
