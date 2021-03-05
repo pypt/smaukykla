@@ -16,10 +16,18 @@ Stebint pastarųjų dienų skiepijimo nuo COVID-19 situaciją Lietuvoje, akivaiz
 * Šalčininkuose [persižiūrėjo "Первый Балтийский" ir vakcinuosis tik Sputniku ir tik pas Batką](https://www.lrt.lt/naujienos/lietuvoje/2/1358744/nuo-covid-19-skuba-skiepytis-ne-visi-dalis-salcininku-gyventoju-laukia-sputnik-v-vakcinos-del-jos-vaziuotu-ir-i-baltarusija);
 * Kol vieni laukia masinės vakcinacijos gal-rudenį-gal-žiemą-gal-pavasarį-gal-kitą-rudenį, kiti į vakcinaciją [tiesiog neateina](https://www.lrt.lt/naujienos/sveikata/682/1355361/kol-vakcinacija-nuo-covid-19-isibegeja-klaipedoje-issukiu-kelia-nepasirodantys-asmenys-ir-popierizmas).
 
-Ši smaukykla, nors ir vykdoma vardan vyresnio amžiaus žmonių, neišeis į gerą vyresniam, o ypač jaunesniam:
+Ši atidarytoji smaukykla - **griežtai prioritetizuoti vieną amžiaus grupę prieš kitą** - nors ir vykdoma vardan vyresnio amžiaus žmonių gerovės, neišeis į gerą vyresniam, o ypač jaunesniam:
 
 * **Smaukykla brangiai kainuoja.** Kol senolis svarsto, kuo tikėti - reklama stotelėje ar pamėgtu rusišku TV kanalu - valstybė yra priversta mokėti subsidijas negalintiems veikti verslams, dalinti bedarbio pašalpas darbą praradusiems; visgi, tikroji kaina paaiškės vėliau, kai visiems reikės mokesčių forma "atkalti" pandemijai suvaldyti ES atspausdintus eurus iš oro;
 * **Smaukykla priešina kartas.** Jaunuolis bus mažiau linkęs mokėti Valstybinio socialinio draudimo įmoką, jeigu matys, kad senolis nesusikapštė nuvykti iki poliklinikos, nes buvo šalta.
+* **Smaukykla pakankamai nemotyvuoja senolių.** Senolis gal ir nebūtų prieš skiepytis, jis tik dėka propagandos sukeltos abejonės nenori būti pirmas (kaip jam atrodo) ir yra linkęs geriau pasėdėti ir pažiūrėti kaip bus; senoliui atrodo, kad jam skubos nėra, vakcina jam visada bus paruošta, iš poliklinikos paskambins dar ir dar kartą, tai galima ir pavasario palaukti.
+
+
+## Peticijos siūlymas
+
+Šia peticija siūloma pamėginti **uždaryti smaukyklą** paprastu, efektyviu ir kompromisiniu būdu:
+
+
 
 
 ## PASIRAŠYTI PETICIJĄ
