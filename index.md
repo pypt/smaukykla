@@ -6,12 +6,30 @@
 Šiuo metu (2021 m. kovo 5 d.) smaukykla COVID-19 skiepijime vis dar yra **atidaryta**.
 
 
+## Aprašymas
+
+Stebint pastarųjų dienų skiepijimo nuo COVID-19 situaciją Lietuvoje, akivaizdu, kad yra plačiai atidaryta erdvi, moderni, 
 
 
 
 ## PASIRAŠYTI PETICIJĄ
 
+Peticiją iki **FIXME** datos prašau **pasirašyti sertifikuotu elektroniniu parašu** ir **atsiųsti man**:
+
+1. Atsisiųskite mano pasirašytą bylą **[`covid-peticija.pdf`](covid-peticija.pdf)**;
+2. **Pasirašykite** bylą su "GoSign", "Dokobit" (žr. instrukcijas apačioje) ar kita pasirašymo priemone;
+3. Atsiųskite **mano ir jūsų kartu** pasirašytą bylą man el. pašto adresu **[mailto:linas.valiukas@gmail.com?subject=Smaukykla]**; el. laiško temoje būtinai įrašykite raktažodį "**Smaukykla**".
+
+
+### "GoSign" instrukcija
+
 FIXME
+
+
+### "Dokobit" instrukcija
+
+FIXME
+
 
 ## Klausimai - atsakymai
 
@@ -19,6 +37,8 @@ FIXME
 ### Ar nori atimti iš babytės skiepą?
 
 Ne - babytė kaip turėjo galimybę pasiskiepyti prieš mane, jaunuolį, taip ir turės toliau. Noriu papildomai motyvuoti babytę nueiti pasiskiepyti, kad babytės pagaliau taptų suskiepytos, o tada mano tėvai, ir gal kažkada jau ir aš.
+
+Būtų idealu, jeigu visos Lietuvos babytės, paskatintos už jų laukiančios gyvos eilės, čiuptų savo ridikiulius ir suskubtų į poliklinikas.
 
 
 ### Ar čia Latvių gatvės psy-opsas?
