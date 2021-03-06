@@ -128,7 +128,7 @@ Peticiją iki **FIXME** datos prašau **pasirašyti sertifikuotu elektroniniu pa
     * Jeigu turite mobilųjį parašą, rekomenduoju naudoti ["GoSign"](https://www.gosign.lt/lt/); štai [peticijos pasirašymo su "GoSign" instrukcija](gosign.html);
     * Jeigu turite "Smart-ID", rekomenduoju naudoti ["Dokobit"](https://www.dokobit.com/lt/); štai [peticijos pasirašymo su "Dokobit" instrukcija](dokobit.html);
     * Pasirašymui galite naudoti ir kitas priemones, pvz. asmens tapatybės kortelę.
-4. **Atsiųskite** pasirašytą bylą man el. pašto adresu **[linas.valiukas@gmail.com](mailto:linas.valiukas@gmail.com?subject=Smaukykla)**; el. laiško temoje būtinai įrašykite raktažodį "**Smaukykla**":
+4. **Atsiųskite** pasirašytą bylą man el. pašto adresu **<peticija@antismaukykla.com>**
     * Patikrinkite, kad siunčiate mūsų abiejų pasirašytą failą, o ne tą, kuris vien su mano parašu!
 
 Gautas peticijas FIXME datą pagal [Peticijų įstatymo](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.84574?jfwid=5sjolfznc) reikalavimus išsiųsiu [Vyriausybės Peticijų komisijai](https://epilietis.lrv.lt/darbo-grupes/peticiju-komisija).
@@ -187,7 +187,7 @@ Ne. Judėjimas "Uždarykime smaukyklą COVID-19 skiepijime!" nėra politinis - j
 
 ### Kaip atšaukti savo parašą?
 
-Jokių problemų - parašykite <linas.valiukas@gmail.com>. Vis dėlto, turėkite omenyje, kad FIXME dieną peticiją siųsiu Vyriausybės Peticijų komisijai, tad jeigu norėsite atšaukti savo parašą po šios datos, turėsite kreiptis tiesiai ten.
+Jokių problemų - parašykite <peticija@antismaukykla.com>. Vis dėlto, turėkite omenyje, kad FIXME datą peticiją siųsiu Vyriausybės Peticijų komisijai, tad jeigu norėsite atšaukti savo parašą po šios datos, turėsite kreiptis tiesiai ten.
 
 
 ### Kas tu toks?
@@ -197,7 +197,7 @@ Jokių problemų - parašykite <linas.valiukas@gmail.com>. Vis dėlto, turėkite
     <figcaption>Linas Valiukas - programuotojas, žurnalistas, antismaukyklininkas.</figcaption>
 </figure>
 
-Aš esu Linas Valiukas, vilnietis, žurnalistas pagal išsilavinimą ir programuotojas pagal profesiją. Pasisakau už vakcinas ir prieš smaukyklas. Su manimi galite susisiekti [el. paštu](mailto:linas.valiukas@gmail.com).
+Aš esu Linas Valiukas, vilnietis, žurnalistas pagal išsilavinimą ir programuotojas pagal profesiją. Pasisakau už vakcinas ir prieš smaukyklas. Su manimi galite susisiekti adresu <peticija@antismaukykla.com>.
 
 
 ## Privatumas
