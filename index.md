@@ -126,9 +126,9 @@ Gautas peticijas FIXME datą pagal [Peticijų įstatymo](https://e-seimas.lrs.lt
 
 ### Ar nori atimti iš babytės skiepą?
 
-Ne - babytė kaip turėjo galimybę pasiskiepyti prieš mane, jaunesnį, taip ir turės toliau. Noriu papildomai motyvuoti babytę nueiti pasiskiepyti, kad babytės pagaliau taptų suskiepytos, o tada mano tėvai, ir gal kažkada jau ir aš.
+Ne - babytė kaip turėjo galimybę pasiskiepyti prieš mane, jaunesnį, taip ir turės toliau. Noriu papildomai motyvuoti babytę nueiti pasiskiepyti, kad babytės pagaliau taptų suskiepytos, o tada mano tėvai, ir gal kažkada jau ir aš. Būtų idealu, jeigu visos Lietuvos babytės, paskatintos už jų laukiančios gyvos eilės, čiuptų savo ridikiulius ir suskubtų į poliklinikas.
 
-Būtų idealu, jeigu visos Lietuvos babytės, paskatintos už jų laukiančios gyvos eilės, čiuptų savo ridikiulius ir suskubtų į poliklinikas.
+Taip pat argumentuoju, kad kai kurios babytės - ką joms besakytum ir bedarytum - neis skiepytis, todėl gana jas bandyti įtikinėti, ir geriau tą skiepą būtų perduoti kitiems.
 
 
 ### Ar čia Latvių gatvės psy-opsas?
