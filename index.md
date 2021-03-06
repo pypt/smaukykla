@@ -14,7 +14,10 @@ Vakarais skiepykime visus norinčius, tam naudodami dienos metu likusią nepanau
 ## Smaukyklos aprašymas
 
 <figure class="image">
-    <img src="atsidaro-smaukykla.gif" alt="Smaukykla atsidaro">
+    <video autoplay loop muted playsinline>  
+        <source src="atsidaro-smaukykla.webm" type="video/webm">  
+        <source src="atsidaro-smaukykla.mp4" type="video/mp4">  
+    </video>
     <figcaption>Plačiai atsilapoja smaukyklos durys.</figcaption>
 </figure>
 
@@ -30,7 +33,10 @@ Stebint pastarųjų dienų skiepijimo nuo COVID-19 situaciją Lietuvoje, akivaiz
 ## Smaukyklos problematika
 
 <figure class="image">
-    <img src="pilietis-laukia-savo-eiles.gif" alt="Pilietis laukia savo eilės">
+    <video autoplay loop muted playsinline>  
+        <source src="pilietis-laukia-savo-eiles.webm" type="video/webm">  
+        <source src="pilietis-laukia-savo-eiles.mp4" type="video/mp4">  
+    </video>
     <figcaption>Povilą Eliją išvargino 2023 m. Kalėdos per "Zoom", taigi jis išmėgino "Visine" lašus akims.</figcaption>
 </figure>
 
@@ -45,7 +51,10 @@ Stebint pastarųjų dienų skiepijimo nuo COVID-19 situaciją Lietuvoje, akivaiz
 ## Peticijos siūlymas
 
 <figure class="image">
-    <img src="uzsidaro-smaukykla.gif" alt="Smaukykla užsidaro">
+    <video autoplay loop muted playsinline>  
+        <source src="uzsidaro-smaukykla.webm" type="video/webm">  
+        <source src="uzsidaro-smaukykla.mp4" type="video/mp4">  
+    </video>
     <figcaption>Pasirašydama peticiją, Angelė vienu rankos mostu uždaro smaukyklą.</figcaption>
 </figure>
 
@@ -59,7 +68,10 @@ Stebint pastarųjų dienų skiepijimo nuo COVID-19 situaciją Lietuvoje, akivaiz
 ### Siūlomas vakcinavimo organizavimas
 
 <figure class="image">
-    <img src="senjoras-pries-jaunuoli.gif" alt="Senjoras prieš jaunuolį">
+    <video autoplay loop muted playsinline>  
+        <source src="senjoras-pries-jaunuoli.webm" type="video/webm">  
+        <source src="senjoras-pries-jaunuoli.mp4" type="video/mp4">  
+    </video>
     <figcaption>Smaukyklai užsidarius, šviežiai motyvuotas senjoras Anicetas akcentuoja jaunuoliui savo prioritetinę eilę skiepytis.</figcaption>
 </figure>
 
@@ -81,7 +93,10 @@ Jeigu konkrečiau, tai peticija siekiama pakeisti [Sveikatos apsaugos ministro �
 ### Siūlymo privalumai
 
 <figure class="image">
-    <img src="senjore-prie-kompiuterio.gif" alt="Senjorė prie kompiuterio">
+    <video autoplay loop muted playsinline>  
+        <source src="senjore-prie-kompiuterio.webm" type="video/webm">  
+        <source src="senjore-prie-kompiuterio.mp4" type="video/mp4">  
+    </video>
     <figcaption>Paskiepyta senjorė Dalytė, padedama anūkės, rašo "DELFI" komentarą apie tai, kur, jos nuomone, Putinas turėtų susikišti savo "Sputnik V".</figcaption>
 </figure>
 
@@ -96,7 +111,10 @@ Jeigu konkrečiau, tai peticija siekiama pakeisti [Sveikatos apsaugos ministro �
 ## Tapk antismaukyklininku - PASIRAŠYK PETICIJĄ!
 
 <figure class="image">
-    <img src="pasirasoma-peticija.gif" alt="Pasirašoma peticija">
+    <video autoplay loop muted playsinline>  
+        <source src="pasirasoma-peticija.webm" type="video/webm">  
+        <source src="pasirasoma-peticija.mp4" type="video/mp4">  
+    </video>
     <figcaption>Algis pritaria peticijoje išsakytiems teiginiams, todėl ją nusprendė pasirašyti elektroniniu parašu; visgi, prisiminti sPIN 1 ir sPIN 2 kodus - kaskart iššūkis.</figcaption>
 </figure>
 
