@@ -34,6 +34,11 @@ Stebint pastarųjų dienų skiepijimo nuo COVID-19 situaciją Lietuvoje, akivaiz
 
 ## Smaukyklos problematika
 
+<figure class="image">
+    <img src="pilietis-laukia-savo-eiles.gif" alt="Pilietis laukia savo eilės">
+    <figcaption>Povilą Eliją išvargino 2023 m. Kalėdos per "Zoom", taigi jis išmėgino "Visine" lašus.</figcaption>
+</figure>
+
 Ši atlapotoji smaukykla - **griežtai prioritetizuoti vieną amžiaus grupę prieš kitą** - nors ir vykdoma vardan vyresnio amžiaus žmonių gerovės, neišeis į gerą vyresniam, o ypač jaunesniam:
 
 * **Smaukykla brangiai kainuoja.** Kol senjoras svarsto, kuo tikėti - reklama stotelėje ar pamėgtu rusišku TV kanalu - valstybė yra priversta mokėti subsidijas negalintiems veikti verslams, dalinti bedarbio pašalpas darbą praradusiems; visgi, tikroji kaina paaiškės vėliau, kai visiems reikės mokesčių forma "atkalti" pandemijai suvaldyti ES atspausdintus eurus iš oro;
@@ -60,7 +65,7 @@ Stebint pastarųjų dienų skiepijimo nuo COVID-19 situaciją Lietuvoje, akivaiz
 
 <figure class="image">
     <img src="senjoras-pries-jaunuoli.gif" alt="Senjoras prieš jaunuolį">
-    <figcaption>Smaukyklai užsidarius, šviežiai motyvuotas senjoras akcentuoja jaunuoliui savo prioritetinę eilę skiepytis.</figcaption>
+    <figcaption>Smaukyklai užsidarius, šviežiai motyvuotas senjoras Anicetas akcentuoja jaunuoliui savo prioritetinę eilę skiepytis.</figcaption>
 </figure>
 
 Peticijoje siūlome nutraukti smaukyklinę praktiką - **maldavimą, įtikinėjimą, dūsavimą, rankų grąžymą, socialinių tinklų kaltinimą** - ir rekomenduojame pritaikyti šį vakcinavimo organizavimo modelį kiekvienam vakcinavimo punktui:
@@ -75,29 +80,29 @@ Peticijoje siūlome nutraukti smaukyklinę praktiką - **maldavimą, įtikinėji
 
 Modelį taip pat būtų galima pradžioje išmėginti tik su vienu vakcinavimo punktu, pvz. viena poliklinika.
 
-Peticija siekiama pakeisti [Sveikatos apsaugos ministro įsakymą dėl COVID-19 skiepijimo prioritetų](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/fd056f90469711ebb394e1efb98d3e67/asr), jame apibrėžiant aukščiau siūlomą tvarką.
+Jeigu konkrečiau, tai peticija siekiama pakeisti [Sveikatos apsaugos ministro įsakymą dėl COVID-19 skiepijimo prioritetų](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/fd056f90469711ebb394e1efb98d3e67/asr), jame apibrėžiant aukščiau siūlomą tvarką.
 
 
 ### Pasiūlymo privalumai
 
 <figure class="image">
     <img src="senjore-prie-kompiuterio.gif" alt="Senjorė prie kompiuterio">
-    <figcaption>Paskiepyta senjorė, padedama anūkės, rašo "DELFI" komentarą apie tai, kur, jos nuomone, Putinas turėtų susikišti savo "Sputnik V".</figcaption>
+    <figcaption>Paskiepyta senjorė Dalytė, padedama anūkės, rašo "DELFI" komentarą apie tai, kur, jos nuomone, Putinas turėtų susikišti savo "Sputnik V".</figcaption>
 </figure>
 
 * **Prioritetinės grupės nariai daug noriau skiepysis dėl jaučiamos konkurencijos** - senjorui vien mintis, kad jaunesnis turi galimybę užlįsti prieš jį į eilę ir panaudoti jam skirtą skiepą, bus pakankamas motyvatorius eiti pasiskiepyti pačiam.
 * **Vakciną galės gauti bent maža dalis jaunesnių, bet riziką keliančiomis ligomis sergančiųjų**, pavyzdžiui, žmonės su viršsvoriu, diabetu ar astma, kurie į prioritetinę grupę nepateks dar ilgai.
 * **Vakcinavimo punktai išmėgins turimus resursus ir turės progą ištaisyti klaidas prieš masinę vakcinaciją.** Nesinorėtų sužinoti, kad atėjus laikui ir galimybei vakcinuoti masiškai (vasarą? rugsėjį? spalį? kurių metų?) paaiškėtų, kad yra logistinių kliūčių tai atlikti efektyviai.
 * **Bus vakcinuota daugiau žmonių per tą patį laiką.** Kažkas galės eiti į darbą, kitas turės jau užmirštą galimybę vykti į užsienį.
-* **Bus vakcinuota žmonių grupė, kuri nori vakcinuotis, laukia vakcinos, ja neabejoja ir yra pasirengę vakcinos nauda pasidalinti su kitais.**
-* **Dalis vakcinos skeptikų tokiais nebeliks išvydę vakcinos paklausą.**
+* **Bus vakcinuota žmonių grupė, kuri nori vakcinuotis, laukia vakcinos, ja neabejoja ir yra pasirengę vakcinos nauda pasidalinti su kitais.** Padidėjus paskiepytųjų skaičiui, skiepytis taps normalu, nebe išskirtinė teisė, dangiška mana ar tai, kuo kažką reikia įtikinti, taigi skiepų skeptikai taip pat tuomet gali persigalvoti.
+* **Dalis vakcinos skeptikų tokiais nebeliks išvydę vakcinos paklausą.** Įsivaizduojate mūsų rusakalbių bendrapiliečių Šalčininkuose reakciją, jeigu ordos šiauliečių miškais ir pelkėmis prasmuktų į Šalčininkų rajoną ir sustotų į eilę skiepytis prieš juos?
 
 
 ## PASIRAŠYTI PETICIJĄ
 
 <figure class="image">
     <img src="pasirasoma-peticija.gif" alt="Pasirašoma peticija">
-    <figcaption>Algis pritaria peticijoje išsakytiems teiginiams, bet negali pasirašyti, nes vėl užmiršo savo mobilaus parašo sPIN 2.</figcaption>
+    <figcaption>Algis pritaria peticijoje išsakytiems teiginiams, todėl ją nusprendė pasirašyti elektroniniu parašu; visgi, prisiminti sPIN 1 ir sPIN 2 - kaskart iššūkis.</figcaption>
 </figure>
 
 Peticiją iki **FIXME** datos prašau **pasirašyti sertifikuotu elektroniniu parašu** ir **atsiųsti man**:
@@ -111,16 +116,6 @@ Peticiją iki **FIXME** datos prašau **pasirašyti sertifikuotu elektroniniu pa
 4. **Atsiųskite mano ir jūsų kartu** pasirašytą bylą man el. pašto adresu **[linas.valiukas@gmail.com](mailto:linas.valiukas@gmail.com?subject=Smaukykla)**; el. laiško temoje būtinai įrašykite raktažodį "**Smaukykla**".
 
 Gautas peticijas FIXME datą pagal [Peticijų įstatymo](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.84574?jfwid=5sjolfznc) reikalavimus išsiųsiu [Vyriausybės Peticijų komisijai](https://epilietis.lrv.lt/darbo-grupes/peticiju-komisija).
-
-
-### "GoSign" instrukcija
-
-FIXME
-
-
-### "Dokobit" instrukcija
-
-FIXME
 
 
 ## Klausimai - atsakymai
@@ -166,7 +161,7 @@ Tik galbūt laiške neminėkite mūsų įvestojo termino "Smaukykla".
 
 ### Kaip atšaukti savo parašą?
 
-Jokių problemų - parašykite <FIXME@FIXME.lt>. Vis dėlto, turėkite omenyje, kad FIXME dieną peticiją siųsiu Vyriausybės Peticijų komisijai, tad jeigu norėsite atšaukti savo parašą po šios datos, turėsite kreiptis tiesiai ten.
+Jokių problemų - parašykite <linas.valiukas@gmail.com>. Vis dėlto, turėkite omenyje, kad FIXME dieną peticiją siųsiu Vyriausybės Peticijų komisijai, tad jeigu norėsite atšaukti savo parašą po šios datos, turėsite kreiptis tiesiai ten.
 
 
 ### Kas tu toks?
@@ -176,7 +171,7 @@ Jokių problemų - parašykite <FIXME@FIXME.lt>. Vis dėlto, turėkite omenyje, 
     <figcaption>Linas Valiukas - programuotojas, žurnalistas, antismaukyklininkas.</figcaption>
 </figure>
 
-Aš esu Linas Valiukas, vilnietis, žurnalistas pagal išsilavinimą ir programuotojas pagal profesiją. Pasisakau už vakcinas ir prieš smaukyklas. Su manimi galite susisiekti [el. paštu](mailto:linas.valiukas@gmail.com)
+Aš esu Linas Valiukas, vilnietis, žurnalistas pagal išsilavinimą ir programuotojas pagal profesiją. Pasisakau už vakcinas ir prieš smaukyklas. Su manimi galite susisiekti [el. paštu](mailto:linas.valiukas@gmail.com).
 
 
 ## Privatumas
@@ -187,7 +182,10 @@ Kadangi jūsų pasirašytą dokumentą pirmasis pasirašiau aš, dokumento para�
 
 Štai kaip atrodo tie asmens duomenys:
 
-![Asmens duomenų pavyzdys](asmens-duomenu-pavyzdys.png)
+<figure class="image">
+    <img src="asmens-duomenu-pavyzdys.png" alt="Asmens duomenų pavyzdys">
+    <figcaption>Jeigu imsit greitąjį kreditą ant manęs, tai po to atsiųskit nuotrauką ką nusipirkot.</figcaption>
+</figure>
 
 Juokai juokais, bet jūsų asmens duomenų **nenaudosiu niekur kitur** išskyrus aukščiau aprašytos peticijos pateikimą Vyriausybės Peticijų komisijai. Duomenų neperduosiu šalims, nesusijusiomis su peticijos pateikimu, nepadovanosiu, neparduosiu, nerodysiu draugeliams, neskaitysiu pavardžių ir nežvengsiu, žodžiu, nepadarysiu su jais CityBee.
 
