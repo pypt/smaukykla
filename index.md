@@ -3,17 +3,12 @@
 
 # Uždarykime smaukyklą COVID-19 skiepijime!
 
-Vakarais skiepykime visus norinčius dienos metu likusia nepanaudota vakcina!
+Vakarais skiepykime visus norinčius, tam naudodami dienos metu likusią nepanaudotą vakciną!
 
 
 ## Dabartinis smaukyklos statusas
 
-Šiuo metu (2021 m. kovo 6 d.) smaukykla COVID-19 skiepijime vis dar yra **atidaryta**.
-
-
-## Smaukyklos uždarymo peticijos chronologija
-
-* 2021-03-06: Parengta pirminė smaukyklos uždarymo svetainės versija.
+Šiuo metu (2021 m. kovo 7 d.) **smaukykla** COVID-19 skiepijime vis dar yra **atidaryta**.
 
 
 ## Smaukyklos aprašymas
@@ -36,10 +31,10 @@ Stebint pastarųjų dienų skiepijimo nuo COVID-19 situaciją Lietuvoje, akivaiz
 
 <figure class="image">
     <img src="pilietis-laukia-savo-eiles.gif" alt="Pilietis laukia savo eilės">
-    <figcaption>Povilą Eliją išvargino 2023 m. Kalėdos per "Zoom", taigi jis išmėgino "Visine" lašus.</figcaption>
+    <figcaption>Povilą Eliją išvargino 2023 m. Kalėdos per "Zoom", taigi jis išmėgino "Visine" lašus akims.</figcaption>
 </figure>
 
-Ši atlapotoji smaukykla - **griežtai prioritetizuoti vieną amžiaus grupę prieš kitą** - nors ir vykdoma vardan vyresnio amžiaus žmonių gerovės, neišeis į gerą vyresniam, o ypač jaunesniam:
+Ši atvertoji smaukykla - **griežtai prioritetizuoti vieną amžiaus grupę prieš kitą** - nors ir vykdoma vardan vyresnio amžiaus žmonių gerovės, neišeis į gerą vyresniam, o ypač jaunesniam:
 
 * **Smaukykla brangiai kainuoja.** Kol senjoras svarsto, kuo tikėti - reklama stotelėje ar pamėgtu rusišku TV kanalu - valstybė yra priversta mokėti subsidijas negalintiems veikti verslams, dalinti bedarbio pašalpas darbą praradusiems; visgi, tikroji kaina paaiškės vėliau, kai visiems reikės mokesčių forma "atkalti" pandemijai suvaldyti ES atspausdintus eurus iš oro;
 * **Smaukykla priešina kartas.** Jaunesnis bus mažiau linkęs mokėti Valstybinio socialinio draudimo įmoką, jeigu matys, kad senjoras nesusikrapštė nuvykti iki poliklinikos, nes buvo šalta.
@@ -56,7 +51,7 @@ Stebint pastarųjų dienų skiepijimo nuo COVID-19 situaciją Lietuvoje, akivaiz
 
 Šia peticija siūloma pamėginti **uždaryti smaukyklą** paprastu, efektyviu ir kompromisiniu būdu:
 
-**Vakarais skiepyti visus norinčius dienos metu likusia nepanaudota vakcina.**
+**Vakarais skiepyti visus norinčius, tam panaudojant dienos metu likusią nepanaudotą vakciną.**
 
 Šią praktiką [taiko Izraelis](https://www.lrt.lt/naujienos/sveikata/682/1331207/vakcinavimo-eiles-rebusas-kodel-izraelis-skuba-skiepyti-moksleivius-o-indonezija-neskiepija-senjoru) - prie vakcinavimo punktų stovi gyva eilė, o punktui baigus darbą ir jame likus vakcinų, vakcinuojami visi norintys nepriklausomai nuo amžiaus grupės ar sveikatos būklės.
 
@@ -102,10 +97,10 @@ Jeigu konkrečiau, tai peticija siekiama pakeisti [Sveikatos apsaugos ministro �
 
 <figure class="image">
     <img src="pasirasoma-peticija.gif" alt="Pasirašoma peticija">
-    <figcaption>Algis pritaria peticijoje išsakytiems teiginiams, todėl ją nusprendė pasirašyti elektroniniu parašu; visgi, prisiminti sPIN 1 ir sPIN 2 - kaskart iššūkis.</figcaption>
+    <figcaption>Algis pritaria peticijoje išsakytiems teiginiams, todėl ją nusprendė pasirašyti elektroniniu parašu; visgi, prisiminti sPIN 1 ir sPIN 2 kodus - kaskart iššūkis.</figcaption>
 </figure>
 
-Jeigu sutinkate, kad vakarais būtų skiepijami visi norinys dienos metu likusia nepanaudota vakcina, kviečiu pasirašyti šią peticiją.
+Jeigu sutinkate, kad vakarais būtų skiepijami visi norinys, tam naudojant dienos metu likusią nepanaudotą vakciną, kviečiu pasirašyti šią peticiją.
 
 Peticiją iki **FIXME** datos prašau **pasirašyti sertifikuotu elektroniniu parašu** ir **atsiųsti man**:
 
@@ -115,9 +110,15 @@ Peticiją iki **FIXME** datos prašau **pasirašyti sertifikuotu elektroniniu pa
     * Jeigu turite mobilųjį parašą, rekomenduoju naudoti ["GoSign"](https://www.gosign.lt/lt/); štai [peticijos pasirašymo su "GoSign" instrukcija](gosign.html);
     * Jeigu turite "Smart-ID", rekomenduoju naudoti ["Dokobit"](https://www.dokobit.com/lt/); štai [peticijos pasirašymo su "Dokobit" instrukcija](dokobit.html);
     * Pasirašymui galite naudoti ir kitas priemones, pvz. asmens tapatybės kortelę.
-4. **Atsiųskite mano ir jūsų kartu** pasirašytą bylą man el. pašto adresu **[linas.valiukas@gmail.com](mailto:linas.valiukas@gmail.com?subject=Smaukykla)**; el. laiško temoje būtinai įrašykite raktažodį "**Smaukykla**".
+4. **Atsiųskite** pasirašytą bylą man el. pašto adresu **[linas.valiukas@gmail.com](mailto:linas.valiukas@gmail.com?subject=Smaukykla)**; el. laiško temoje būtinai įrašykite raktažodį "**Smaukykla**":
+    * Patikrinkite, kad siunčiate mūsų abiejų pasirašytą failą, o ne tą, kuris vien su mano parašu!
 
 Gautas peticijas FIXME datą pagal [Peticijų įstatymo](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.84574?jfwid=5sjolfznc) reikalavimus išsiųsiu [Vyriausybės Peticijų komisijai](https://epilietis.lrv.lt/darbo-grupes/peticiju-komisija).
+
+
+## Smaukyklos uždarymo peticijos chronologija
+
+* 2021-03-06: Parengta pirminė smaukyklos uždarymo svetainės versija.
 
 
 ## Klausimai - atsakymai
@@ -135,11 +136,18 @@ Būtų idealu, jeigu visos Lietuvos babytės, paskatintos už jų laukiančios g
 Ne.
 
 
+### Nenoriu tau siųsti jokių pasirašytų peticijų, nes paimsi greitąjį kreditą mano vardu!
+
+Nepaimsiu (žr. skyrių "Privatumas"), nes peticijos dokumentą pasirašius ir man, ir jums, dėl elektroninio parašo specifikos nepavyktų dokumento niekaip pakeisti. Taip pat nėra būdo parašą kažkokiu būdu "nuimti" ir "uždėti" ant kito dokumento.
+
+Neblogai elektroninio parašo veikimo principą yra [aprašęs senesnis "DELFI" straipsnis](https://www.delfi.lt/verslas/verslas/elektroninis-parasas-kas-tai-kaip-veikia-ir-kur-naudoti.d?id=69088658).
+
+
 ### O tai negalim ten paprastai per kokį peticijos.lt pasirašyti?
 
-Daug kas esam "pasirašinėję" peticiją viename iš tam skirtų tinklalapių - už / prieš šuniukus, gėjus, 420, 69, vaiko pinigus, musulmonus, transvestitus, Stambulo konvenciją, "Maximą" ir kt. Deja, visi tiesiog veltui sugaišome laiką - tos peticijos buvo niekinės, nes nebuvo pasirašytos nei tušinuku, nei elektroniniu parašu.
+Daug kas esam "pasirašinėję" peticiją viename iš tam skirtų tinklalapių - už / prieš šuniukus, gėjus, 420, 69, vaiko pinigus, musulmonus, transvestitus, Stambulo konvenciją, "Akropolį" ir kt. Deja, visi tiesiog veltui sugaišome laiką - tos peticijos buvo niekinės, nes nebuvo pasirašytos nei tušinuku, nei elektroniniu parašu.
 
-Dabartinė Peticijų įstatymo redakcija [leidžia](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.84574?jfwid=5sjolfznc) pasirašyti peticiją ir elektroniniu būdu, bet nėra nė vieno tinklapio, kuris leistų tai padaryti. Man atrodo, žinau kodėl - elektroninis parašas kainuoja [pinigus](https://www.dokobit.com/lt/kainos), taigi privačios įmonės nenori mokėti už jūsų peticijos parašus, o viešasis sektorius išvis ne itin suinteresuotas, kad jūs kažką ten pasirašinėtumėt, siųstumėt ir jiems tuomet reikėtų tai svarstyti.
+Dabartinė Peticijų įstatymo redakcija [leidžia](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.84574?jfwid=5sjolfznc) pasirašyti peticiją ir elektroniniu būdu, bet nėra nė vieno tinklapio, kuris leistų tai padaryti. Man atrodo, žinau kodėl - elektroninis parašas kainuoja [pinigus](https://www.dokobit.com/lt/kainos), taigi privačios įmonės nenori mokėti už jūsų peticijos parašus, o viešasis sektorius išvis ne itin suinteresuotas, kad jūs išvis kažką ten pasirašinėtumėt, siųstumėt ir jiems tuomet reikėtų tai svarstyti.
 
 Aš pinigų, skirtų sumokėti už kiekvieno iš pasirašančiųjų elektroninį parašą ant vieno ir to paties dokumento, irgi neturiu, taigi siūlau peticiją pasirašyti šitaip:
 
@@ -151,14 +159,12 @@ Aš pinigų, skirtų sumokėti už kiekvieno iš pasirašančiųjų elektroninį
 
 ### Bet tai jeigu savo laiške Vyriausybei rašysi žodį "smaukykla", tai gali nelabai rimtai į tave pažiūrėti
 
-Na tai gal tada žodžio "smaukykla" nerašysiu.
+Na, tai gal tada žodžio "smaukykla" pačioje peticijoje nerašysiu.
 
 
-### Nenoriu tau siųsti jokių pasirašytų peticijų, nes paimsi greitąjį kreditą mano vardu!
+### O tu gal partinis - riešutauji su konservais, duoneliauji su žalstiečiais, prie vieno pečiaus su socdemais, arba - dar blogiau - koks nors ten laisvapartininkas?
 
-Nepaimsiu (žr. skyrių "Privatumas"), bet peticiją patys galite nusiųsti tiesiai [Vyriausybės Peticijų komisijai](https://epilietis.lrv.lt/lt/darbo-grupes/peticiju-komisija/tab.sud%C4%97tis).
-
-Tik galbūt laiške neminėkite mūsų įvestojo termino "Smaukykla".
+Ne. Judėjimas "Uždarykime smaukyklą COVID-19 skiepijime!" nėra politinis - judėjimas yra antismaukyklinis.
 
 
 ### Kaip atšaukti savo parašą?
