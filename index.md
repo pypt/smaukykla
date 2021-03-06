@@ -3,7 +3,7 @@
 
 # Uždarykime smaukyklą COVID-19 skiepijime!
 
-Vakarais skiepykime visas amžiaus grupes likusia nepanaudota vakcina!
+Vakarais skiepykime visus norinčius dienos metu likusia nepanaudota vakcina!
 
 
 ## Dabartinis smaukyklos statusas
@@ -56,7 +56,7 @@ Stebint pastarųjų dienų skiepijimo nuo COVID-19 situaciją Lietuvoje, akivaiz
 
 Šia peticija siūloma pamėginti **uždaryti smaukyklą** paprastu, efektyviu ir kompromisiniu būdu:
 
-**Vakarais skiepyti visas amžiaus grupes likusia nepanaudota vakcina.**
+**Vakarais skiepyti visus norinčius dienos metu likusia nepanaudota vakcina.**
 
 Šią praktiką [taiko Izraelis](https://www.lrt.lt/naujienos/sveikata/682/1331207/vakcinavimo-eiles-rebusas-kodel-izraelis-skuba-skiepyti-moksleivius-o-indonezija-neskiepija-senjoru) - prie vakcinavimo punktų stovi gyva eilė, o punktui baigus darbą ir jame likus vakcinų, vakcinuojami visi norintys nepriklausomai nuo amžiaus grupės ar sveikatos būklės.
 
@@ -74,7 +74,7 @@ Peticijoje siūlome nutraukti smaukyklinę praktiką - **maldavimą, įtikinėji
 2. Kiekvienam norinčiam skiepytis iš prioritetinės grupės priskiriama tos dienos vieta eilėje;
 3. Dienos metu skiepijami tą dieną pakviesti ir atvykę prioritetinės grupės asmenys;
 4. Dienos pabaigoje skiepijami visi norintys, naudojant likusias vakcinas iš tos dienos normos;
-5. Prioritetinės grupės asmuo išlaiko savo pirmumo teisę į skiepą:
+5. Prioritetinės grupės asmuo visais atvejais išlaiko savo pirmumo teisę į skiepą:
     1. Prioritetinės grupės asmuo, pakviestas ir neatvykęs savo paskirtos dienos metu, gali atvykti dienos pabaigoje ir be eilės gauti skiepą.
     2. Prioritetinės grupės asmuo, pakviestas ir neatvykęs nei savo paskirtos dienos metu, nei vakare, gali kreiptis į sveikatos priežiūros įstaigą ir suplanuoti kitą vizitą vakcinacijai (priklausomai nuo turimų vakcinų kiekio).
 
@@ -83,7 +83,7 @@ Modelį taip pat būtų galima pradžioje išmėginti tik su vienu vakcinavimo p
 Jeigu konkrečiau, tai peticija siekiama pakeisti [Sveikatos apsaugos ministro įsakymą dėl COVID-19 skiepijimo prioritetų](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/fd056f90469711ebb394e1efb98d3e67/asr), jame apibrėžiant aukščiau siūlomą tvarką.
 
 
-### Pasiūlymo privalumai
+### Siūlymo privalumai
 
 <figure class="image">
     <img src="senjore-prie-kompiuterio.gif" alt="Senjorė prie kompiuterio">
@@ -98,12 +98,14 @@ Jeigu konkrečiau, tai peticija siekiama pakeisti [Sveikatos apsaugos ministro �
 * **Dalis vakcinos skeptikų tokiais nebeliks išvydę vakcinos paklausą.** Įsivaizduojate mūsų rusakalbių bendrapiliečių Šalčininkuose reakciją, jeigu ordos šiauliečių miškais ir pelkėmis prasmuktų į Šalčininkų rajoną ir sustotų į eilę skiepytis prieš juos?
 
 
-## PASIRAŠYTI PETICIJĄ
+## Tapk antismaukyklininku - PASIRAŠYK PETICIJĄ!
 
 <figure class="image">
     <img src="pasirasoma-peticija.gif" alt="Pasirašoma peticija">
     <figcaption>Algis pritaria peticijoje išsakytiems teiginiams, todėl ją nusprendė pasirašyti elektroniniu parašu; visgi, prisiminti sPIN 1 ir sPIN 2 - kaskart iššūkis.</figcaption>
 </figure>
+
+Jeigu sutinkate, kad vakarais būtų skiepijami visi norinys dienos metu likusia nepanaudota vakcina, kviečiu pasirašyti šią peticiją.
 
 Peticiją iki **FIXME** datos prašau **pasirašyti sertifikuotu elektroniniu parašu** ir **atsiųsti man**:
 
