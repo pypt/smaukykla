@@ -217,7 +217,7 @@ Kadangi jūsų pasirašytą dokumentą pirmasis pasirašiau aš, dokumento para�
 
 <figure class="image">
     <img src="asmens-duomenu-pavyzdys.png" alt="Asmens duomenų pavyzdys">
-    <figcaption>Jeigu imsit greitąjį kreditą ant manęs, tai po to atsiųskit nuotrauką ką nusipirkot.</figcaption>
+    <figcaption>Jeigu imsit greitąjį kreditą ant manęs, tai po to atsiųskit nuotrauką ką faino nusipirkot.</figcaption>
 </figure>
 
 Juokai juokais, bet jūsų asmens duomenų **nenaudosiu niekur kitur** išskyrus aukščiau aprašytos peticijos pateikimą Vyriausybės Peticijų komisijai. Duomenų neperduosiu šalims, nesusijusiomis su peticijos pateikimu, nepadovanosiu, neparduosiu, nerodysiu draugeliams, neskaitysiu pavardžių ir nežvengsiu, žodžiu, nepadarysiu su jais CityBee.
