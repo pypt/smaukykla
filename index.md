@@ -192,9 +192,9 @@ Ne. Judėjimas "Uždarykime smaukyklą COVID-19 skiepijime!" nėra politinis - j
 Tiesą sakant, va dabar sėdžiu ir žiūriu už / prieš ką ten Tapinas parašus rinko, nes ką tik apie tai sužinojau. Visą savaitę mačiau kažkokias dėžes, kurias kažkas kažkur nešė, bet nesupratau apie ką jie visi šneka.
 
 
-### Ką galvoji dėl pasikartojančių parašų
+### Ką galvoji dėl pasikartojančių parašų?
 
-Nežinau, reikės galvot kažką. Galima, manau, technologinėmis priemonėmis greitai visus unikalius pasirašiusius atrinkti.
+Nežinau, reikės sutikrint kažkaip. Nesunku, manau, turėtų būti technologinėmis priemonėmis greitai visus unikalius pasirašiusius atrinkti.
 
 
 ### Kaip atšaukti savo parašą?
