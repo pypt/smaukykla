@@ -1,4 +1,11 @@
-![Ne smaukyklai COVID-19 skiepijime!](media/ne-smaukyklai.svg)
+---
+layout: page
+title: Ne smaukyklai COVID-19 skiepijime!
+permalink: /
+---
+
+
+<img src="media/ne-smaukyklai.svg" alt="Ne smaukyklai COVID-19 skiepijime!" style="width: 50%" />
 
 
 # Uždarykime smaukyklą COVID-19 skiepijime!

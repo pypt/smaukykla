@@ -1,3 +1,10 @@
+---
+layout: page
+title: Peticijos pasirašymo su „GoSign“ instrukcija
+permalink: /gosign.html
+---
+
+
 # Peticijos pasirašymo su „GoSign“ instrukcija
 
 Turint mobilųjį elektroninį parašą, itin paprasta dokumentus pasirašyti su „GoSign“.

@@ -1,3 +1,10 @@
+---
+layout: page
+title: Peticijos pasirašymo su „Dokobit“ instrukcija
+permalink: /dokobit.html
+---
+
+
 # Peticijos pasirašymo su „Dokobit“ instrukcija
 
 Turint „Smart-ID“ paskyrą su kvalifikuotu elektroniniu parašu, itin paprasta dokumentus pasirašyti su "Dokobit".
