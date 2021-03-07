@@ -1,4 +1,4 @@
-![Ne smaukyklai COVID-19 skiepijime!](ne-smaukyklai.svg)
+![Ne smaukyklai COVID-19 skiepijime!](media/ne-smaukyklai.svg)
 
 
 # Uždarykime smaukyklą COVID-19 skiepijime!
@@ -14,7 +14,7 @@ Vakarais skiepykime visus norinčius, tam naudodami dienos metu likusią nepanau
 ## Smaukyklos aprašymas
 
 <figure class="image">
-    <img src="atsidaro-smaukykla.gif" alt="Atsidaro smaukykla" />
+    <img src="media/atsidaro-smaukykla.gif" alt="Atsidaro smaukykla" />
     <figcaption>Plačiai atsilapoja smaukyklos durys.</figcaption>
 </figure>
 
@@ -30,7 +30,7 @@ Stebint pastarųjų dienų skiepijimo nuo COVID-19 situaciją Lietuvoje, akivaiz
 ## Smaukyklos problematika
 
 <figure class="image">
-    <img src="pilietis-laukia-savo-eiles.gif" alt="Pilietis laukia savo eilės" />
+    <img src="media/pilietis-laukia-savo-eiles.gif" alt="Pilietis laukia savo eilės" />
     <figcaption>Povilą Eliją išvargino 2023 m. Kalėdos per „Zoom“, taigi jis išmėgino „Visine“ lašus akims.</figcaption>
 </figure>
 
@@ -45,7 +45,7 @@ Stebint pastarųjų dienų skiepijimo nuo COVID-19 situaciją Lietuvoje, akivaiz
 ## Peticijos siūlymas
 
 <figure class="image">
-    <img src="uzsidaro-smaukykla.gif" alt="Užsidaro smaukykla" />
+    <img src="media/uzsidaro-smaukykla.gif" alt="Užsidaro smaukykla" />
     <figcaption>Pasirašydama peticiją, Angelė vienu rankos mostu uždaro smaukyklą.</figcaption>
 </figure>
 
@@ -61,7 +61,7 @@ Vakcinavimo proceso „butelio kaklelis“ privalo būti ne norinčiųjų skiepy
 ### Siūlomas vakcinavimo organizavimas
 
 <figure class="image">
-    <img src="senjoras-pries-jaunuoli.gif" alt="Senjoras prieš jaunuolį" />
+    <img src="media/senjoras-pries-jaunuoli.gif" alt="Senjoras prieš jaunuolį" />
     <figcaption>Smaukyklai užsidarius, šviežiai motyvuotas senjoras Anicetas akcentuoja jaunuoliui savo prioritetinę eilę skiepytis.</figcaption>
 </figure>
 
@@ -81,7 +81,7 @@ Modelį taip pat būtų galima pradžioje išmėginti tik su vienu vakcinavimo p
 ### Siūlymo privalumai
 
 <figure class="image">
-    <img src="senjore-prie-kompiuterio.gif" alt="Senjorė prie kompiuterio" />
+    <img src="media/senjore-prie-kompiuterio.gif" alt="Senjorė prie kompiuterio" />
     <figcaption>Paskiepyta senjorė Dalytė, padedama anūkės, rašo „DELFI“ komentarą apie tai, kur, jos nuomone, Putinas turėtų susikišti savo „Sputnik V“.</figcaption>
 </figure>
 
@@ -96,7 +96,7 @@ Modelį taip pat būtų galima pradžioje išmėginti tik su vienu vakcinavimo p
 ## Tapk antismaukyklininku - PASIRAŠYK PETICIJĄ!
 
 <figure class="image">
-    <img src="pasirasoma-peticija.gif" alt="Pasirašoma peticija" />
+    <img src="media/pasirasoma-peticija.gif" alt="Pasirašoma peticija" />
     <figcaption>Algis pritaria peticijoje išsakytiems teiginiams, todėl ją nusprendė pasirašyti elektroniniu parašu; visgi, prisiminti sPIN 1 ir sPIN 2 kodus - kaskart iššūkis.</figcaption>
 </figure>
 
@@ -187,7 +187,7 @@ Jokių problemų - parašykite <peticija@antismaukykla.com>. Vis dėlto, turėki
 ### Kas tu toks?
 
 <figure class="image">
-    <img src="linas-valiukas.jpg" alt="Linas Valiukas">
+    <img src="media/linas-valiukas.jpg" alt="Linas Valiukas">
     <figcaption>Linas Valiukas - programuotojas, žurnalistas, antismaukyklininkas.</figcaption>
 </figure>
 
@@ -203,7 +203,7 @@ Kadangi jūsų pasirašytą dokumentą pirmasis pasirašiau aš, dokumento para�
 Štai kaip atrodo tie asmens duomenys:
 
 <figure class="image">
-    <img src="asmens-duomenu-pavyzdys.png" alt="Asmens duomenų pavyzdys">
+    <img src="media/asmens-duomenu-pavyzdys.png" alt="Asmens duomenų pavyzdys">
     <figcaption>Jeigu imsit greitąjį kreditą ant manęs, tai po to atsiųskit nuotrauką ką faino nusipirkot.</figcaption>
 </figure>
 

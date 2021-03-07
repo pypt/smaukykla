@@ -8,26 +8,26 @@ Turint „Smart-ID“ paskyrą su kvalifikuotu elektroniniu parašu, itin papras
 4. Užsiregistruokite, jeigu anksčiau nesate to padaręs; registracijai naudokite „Smart-ID“ paskyrą.
 5. Prisijunkite prie „Dokobit“ naudodami „Smart-ID“ paskyrą:
 
-    ![Prisijungimas prie paskyros](dokobit/prisijungimas-prie-paskyros.png)
+    ![Prisijungimas prie paskyros](media/dokobit/prisijungimas-prie-paskyros.png)
 
 6. Dešinėje viršuje spauskite „Įkelti dokumentą“:
 
-    ![Dokumento įkėlimas](dokobit/dokumento-ikelimas.png)
+    ![Dokumento įkėlimas](media/dokobit/dokumento-ikelimas.png)
 
 7. Užvilkite anksčiau atsisiųstą `covid-peticija.pdf` ant tam skirtos vietos arba paspauskite nuorodą „Įkelti“, tuomet žemiau paspauskite mygtuką „Tęsti“:
 
-    ![Dokumento įkėlimas](dokobit/dokumento-ikelimas-2.png)
+    ![Dokumento įkėlimas](media/dokobit/dokumento-ikelimas-2.png)
 
 8. Nuvažiuokite į visišką puslapio apačią ir skiltyje „4. Veiksmai“ pasirinkite „Pasirašyti „Smart-ID“ priemone“, galiausiai spauskite „Pasirašyti“:
 
-    ![Peticijos pasirašyms](dokobit/peticijos-pasirasymas.png)
+    ![Peticijos pasirašyms](media/dokobit/peticijos-pasirasymas.png)
 
 9. *(nebūtinai)* Skiltyje „3. Dalyviai“ patikrinkite, ar abu parašai galioja:
 
-    ![Parašų tikrinimas](dokobit/parasu-tikrinimas.png)
+    ![Parašų tikrinimas](media/dokobit/parasu-tikrinimas.png)
 
 10. Puslapio viršuje arba apačioje spauskite „Parsisiųsti“ arba „Parsisiųsti pasirašytą dokumentą“:
 
-    ![Pasirašytos peticijos atsisiuntimas](dokobit/pasirasytos-peticijos-atsisiuntimas.png)
+    ![Pasirašytos peticijos atsisiuntimas](media/dokobit/pasirasytos-peticijos-atsisiuntimas.png)
 
 11. Atsisiųstą dokumentą su **abiem parašais** (nesumaišykite su tuo, kuris tik su mano parašu) atsiųskite el. paštu <peticija@antismaukykla.com>.

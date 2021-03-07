@@ -7,30 +7,30 @@ Turint mobilųjį elektroninį parašą, itin paprasta dokumentus pasirašyti su
 3. Eikite į <https://www.gosign.lt/lt/>
 4. Spauskite „Prisijungti“:
 
-    ![Mygtukas „Prisijungti“](gosign/prisijungti.png)
+    ![Mygtukas „Prisijungti“](media/gosign/prisijungti.png)
 
 5. Prisijunkite su mobiliuoju elektroniniu parašu:
 
-    ![Prisijungimas su mobiliuoju elektroniniu parašu](gosign/prisijungti-mobilus-parasas.png)
+    ![Prisijungimas su mobiliuoju elektroniniu parašu](media/gosign/prisijungti-mobilus-parasas.png)
 
 6. Prisijunkite kaip fizinis asmuo:
 
-    ![Prisijungimas kaip fiziniui asmeniui](gosign/prisijungti-fizinis-asmuo.png)
+    ![Prisijungimas kaip fiziniui asmeniui](media/gosign/prisijungti-fizinis-asmuo.png)
 
 7. Atsidariusiame dokumentų sąraše pavažiuokite truputį žemyn, blokelyje „Įkelti naują dokumentą“ spauskite „Iš kompiuterio“ ir pasirinkite anksčiau atsisiųstą `covid-peticija.pdf`:
 
-    ![Peticijos įkėlimas pasirašymui](gosign/peticijos-ikelimas-pasirasymui.png)
+    ![Peticijos įkėlimas pasirašymui](media/gosign/peticijos-ikelimas-pasirasymui.png)
 
 8. Išplėskite skiltį „Mano parašas“, nieko nekeiskite (jeigu norite, nustatykite „Parašo atvaizdo vietą“ į „Pabaigoje dešinėje“) ir spauskite „Pasirašyti su: Mobiliuoju telefonu“:
 
-    ![Peticijos pasirašymas](gosign/peticijos-pasirasymas.png)
+    ![Peticijos pasirašymas](media/gosign/peticijos-pasirasymas.png)
 
 9. *(nebūtinai)* Išplėskite skiltį „Dokumento parašų tikrinimas“ ir patikrinkite, ar abu parašai galioja:
 
-    ![Parašų tikrinimas](gosign/parasu-tikrinimas.png)
+    ![Parašų tikrinimas](media/gosign/parasu-tikrinimas.png)
 
 10. Apačioje paspauskite ant mygtuko „Atsisiųsti“ ir išsaugokite dokumentą „Į kompiuterį“:
 
-    ![Pasirašytos peticijos atsisiuntimas](gosign/pasirasytos-peticijos-atsisiuntimas.png)
+    ![Pasirašytos peticijos atsisiuntimas](media/gosign/pasirasytos-peticijos-atsisiuntimas.png)
 
 11. Atsisiųstą dokumentą su **abiem parašais** (nesumaišykite su tuo, kuris tik su mano parašu) atsiųskite el. paštu <peticija@antismaukykla.com>.
