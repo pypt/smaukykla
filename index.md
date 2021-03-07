@@ -118,7 +118,9 @@ Jeigu konkrečiau, tai peticija siekiama pakeisti [Sveikatos apsaugos ministro �
     <figcaption>Algis pritaria peticijoje išsakytiems teiginiams, todėl ją nusprendė pasirašyti elektroniniu parašu; visgi, prisiminti sPIN 1 ir sPIN 2 kodus - kaskart iššūkis.</figcaption>
 </figure>
 
-Jeigu sutinkate, kad vakarais būtų skiepijami visi norinys, tam naudojant dienos metu likusią nepanaudotą vakciną, kviečiu pasirašyti šią peticiją.
+Jeigu **sutinkate**, kad **vakarais būtų skiepijami visi norinys, tam naudojant dienos metu likusią nepanaudotą vakciną**, kviečiu pasirašyti šią peticiją.
+
+Ši peticija yra kiek kitokia nei kitos peticijos internete, nes ją mėginu pateikti [Peticijų įstatymo](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.84574?jfwid=5sjolfznc) reikalavimus, nes noriu, kad ją ne tik pashare'intų ir palike'intų socialiniuose tinkluose, bet ir realiai kažkas privalėtų svarstyti. Todėl norinčius prisidėti prie peticijos prašau ją pasirašyti elektroniniu parašu.
 
 Peticiją iki **FIXME** datos prašau **pasirašyti elektroniniu parašu** ir **atsiųsti man**:
 
@@ -131,7 +133,7 @@ Peticiją iki **FIXME** datos prašau **pasirašyti elektroniniu parašu** ir **
 4. **Atsiųskite** pasirašytą bylą man el. pašto adresu **<peticija@antismaukykla.com>**
     * Patikrinkite, kad siunčiate mūsų abiejų pasirašytą failą, o ne tą, kuris vien su mano parašu!
 
-Gautas peticijas FIXME datą pagal [Peticijų įstatymo](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.84574?jfwid=5sjolfznc) reikalavimus išsiųsiu [Vyriausybės Peticijų komisijai](https://epilietis.lrv.lt/darbo-grupes/peticiju-komisija).
+Gautas peticijas FIXME datą pagal Peticijų įstatymo reikalavimus išsiųsiu [Vyriausybės Peticijų komisijai](https://epilietis.lrv.lt/darbo-grupes/peticiju-komisija).
 
 
 ## Smaukyklos uždarymo peticijos chronologija
