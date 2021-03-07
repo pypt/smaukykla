@@ -120,7 +120,7 @@ Jeigu konkrečiau, tai peticija siekiama pakeisti [Sveikatos apsaugos ministro �
 
 Jeigu **sutinkate**, kad **vakarais būtų skiepijami visi norinys, tam naudojant dienos metu likusią nepanaudotą vakciną**, kviečiu pasirašyti šią peticiją.
 
-Ši peticija yra kiek kitokia nei kitos peticijos internete, nes ją mėginu pateikti pagal [Peticijų įstatymo](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.84574?jfwid=5sjolfznc) reikalavimus, nes noriu, kad ją ne tik pashare'intų ir palike'intų socialiniuose tinkluose, bet ir realiai kažkas privalėtų svarstyti. Todėl norinčius prisidėti prie peticijos prašau ją pasirašyti elektroniniu parašu.
+Ši peticija yra kiek kitokia nei kitos peticijos internete, nes ją mėginu pateikti pagal [Peticijų įstatymo](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.84574?jfwid=5sjolfznc) reikalavimus - noriu, kad ją ne tik pashare'intų ir palike'intų socialiniuose tinkluose, bet ir realiai kažkas privalėtų svarstyti. Todėl norinčius prisidėti prie peticijos prašau ją pasirašyti elektroniniu parašu.
 
 Peticiją iki **FIXME** datos prašau **pasirašyti elektroniniu parašu** ir **atsiųsti man**:
 
