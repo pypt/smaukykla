@@ -1,0 +1,10 @@
+data
+tema
+favicon
+og:bullshit
+title, description
+fixme
+mobile viewport / scrolling
+peticijos pdf
+pasirasyti peticijos pdf
+duplicates

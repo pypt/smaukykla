@@ -192,6 +192,11 @@ Ne. Judėjimas "Uždarykime smaukyklą COVID-19 skiepijime!" nėra politinis - j
 Tiesą sakant, va dabar sėdžiu ir žiūriu už / prieš ką ten Tapinas parašus rinko, nes ką tik apie tai sužinojau. Visą savaitę mačiau kažkokias dėžes, kurias kažkas kažkur nešė, bet nesupratau apie ką jie visi šneka.
 
 
+### Ką galvoji dėl pasikartojančių parašų
+
+Nežinau, reikės galvot kažką. Galima, manau, technologinėmis priemonėmis greitai visus unikalius pasirašiusius atrinkti.
+
+
 ### Kaip atšaukti savo parašą?
 
 Jokių problemų - parašykite <peticija@antismaukykla.com>. Vis dėlto, turėkite omenyje, kad FIXME datą peticiją siųsiu Vyriausybės Peticijų komisijai, tad jeigu norėsite atšaukti savo parašą po šios datos, turėsite kreiptis tiesiai ten.
