@@ -33,5 +33,6 @@ exclude:
   - todo.txt
   - serve.sh
   - install.sh
+  - update_toc.sh
   - LICENSE.txt
 

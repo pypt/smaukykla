@@ -13,6 +13,25 @@ permalink: /
 Vakarais skiepykime visus norinčius, tam naudodami dienos metu likusią nepanaudotą vakciną!
 
 
+## Turinys
+
+<!-- TOC-START -->
+
+* [Dabartinis smaukyklos statusas](#dabartinis-smaukyklos-statusas)
+* [Smaukyklos aprašymas](#smaukyklos-aprašymas)
+* [Smaukyklos problematika](#smaukyklos-problematika)
+* [Peticijos siūlymas](#peticijos-siūlymas)
+* [Siūlomas vakcinavimo organizavimas](#siūlomas-vakcinavimo-organizavimas)
+* [Siūlymo privalumai](#siūlymo-privalumai)
+* **[Tapk antismaukyklininku - PASIRAŠYK PETICIJĄ!](#tapk-antismaukyklininku---pasirašyk-peticiją)**
+* [Smaukyklos uždarymo peticijos chronologija](#smaukyklos-uždarymo-peticijos-chronologija)
+* [Klausimai - atsakymai](#klausimai---atsakymai)
+* [Privatumas](#privatumas)
+
+----
+<!-- TOC-END -->
+
+
 ## Dabartinis smaukyklos statusas
 
 Šiuo metu (2021 m. kovo 7 d.) **smaukykla** COVID-19 skiepijime vis dar yra **atidaryta**.
@@ -65,7 +84,7 @@ Stebint pastarųjų dienų skiepijimo nuo COVID-19 situaciją Lietuvoje, akivaiz
 Vakcinavimo proceso „butelio kaklelis“ privalo būti ne norinčiųjų skiepytis ar norinčių skiepyti skaičius, amžiaus grupė ar sveikatos būklė, o vien turimos vakcinos kiekis. Kitaip tariant, šaldytuvas su vakcina turi būti visomis išgalėmis neperstojamai tuštinamas, kol tampa tuščias.
 
 
-### Siūlomas vakcinavimo organizavimas
+## Siūlomas vakcinavimo organizavimas
 
 <figure class="image">
     <img src="media/senjoras-pries-jaunuoli.gif" alt="Senjoras prieš jaunuolį" />
@@ -85,7 +104,7 @@ Peticija siekiama pakeisti [Sveikatos apsaugos ministro įsakymą dėl COVID-19 
 Modelį taip pat būtų galima pradžioje išmėginti tik su vienu vakcinavimo punktu, pvz. viena poliklinika.
 
 
-### Siūlymo privalumai
+## Siūlymo privalumai
 
 <figure class="image">
     <img src="media/senjore-prie-kompiuterio.gif" alt="Senjorė prie kompiuterio" />
@@ -113,7 +132,7 @@ Jeigu **sutinkate**, kad **vakarais būtų skiepijami visi norinys, tam naudojan
 
 Peticiją iki **kovo 10 d. (trečiadienio)** prašau **pasirašyti elektroniniu parašu** ir **atsiųsti man**:
 
-1. **Atsisiųskite** mano pasirašytą bylą <a href="covid-peticija.pdf" download>**`covid-peticija.pdf`**</a>;
+1. **Atsisiųskite** mano pasirašytą bylą <a href="covid-peticija.pdf">**`covid-peticija.pdf`**</a>;
 2. **Perskaitykite** peticiją ir įsitikinkite, kad sutinkate su joje išdėstytais prašymais;
 3. **Pasirašykite** bylą elektroniniu parašu:
     * Jeigu turite mobilųjį parašą, rekomenduoju naudoti [„GoSign“](https://www.gosign.lt/lt/); štai [peticijos pasirašymo su „GoSign“ instrukcija](gosign.html);
