@@ -4,5 +4,4 @@ og:bullshit
 title, description
 fixme
 mobile viewport / scrolling
-lietuvishkos kabutes
 atversti atgal i gifus

@@ -1,13 +1,13 @@
-# Peticijos pasirašymo su "GoSign" instrukcija
+# Peticijos pasirašymo su „GoSign“ instrukcija
 
-Turint mobilųjį elektroninį parašą, itin paprasta dokumentus pasirašyti su "GoSign".
+Turint mobilųjį elektroninį parašą, itin paprasta dokumentus pasirašyti su „GoSign“.
 
-1. Atsisiųskite failą [`covid-peticija.pdf`](covid-peticija.pdf) su mano parašu.
+1. Atsisiųskite failą <a href="covid-peticija.pdf" download>`covid-peticija.pdf`</a> su mano parašu.
 2. Perskaitykite peticijos tekstą, jeigu dar neperskaitėte.
 3. Eikite į <https://www.gosign.lt/lt/>
-4. Spauskite "Prisijungti":
+4. Spauskite „Prisijungti“:
 
-    ![Mygtukas "Prisijungti"](gosign/prisijungti.png)
+    ![Mygtukas „Prisijungti“](gosign/prisijungti.png)
 
 5. Prisijunkite su mobiliuoju elektroniniu parašu:
 
@@ -17,19 +17,19 @@ Turint mobilųjį elektroninį parašą, itin paprasta dokumentus pasirašyti su
 
     ![Prisijungimas kaip fiziniui asmeniui](gosign/prisijungti-fizinis-asmuo.png)
 
-7. Atsidariusiame dokumentų sąraše pavažiuokite truputį žemyn, blokelyje "Įkelti naują dokumentą" spauskite "Iš kompiuterio" ir pasirinkite anksčiau atsisiųstą `covid-peticija.pdf`:
+7. Atsidariusiame dokumentų sąraše pavažiuokite truputį žemyn, blokelyje „Įkelti naują dokumentą“ spauskite „Iš kompiuterio“ ir pasirinkite anksčiau atsisiųstą `covid-peticija.pdf`:
 
     ![Peticijos įkėlimas pasirašymui](gosign/peticijos-ikelimas-pasirasymui.png)
 
-8. Išplėskite skiltį "Mano parašas", nieko nekeiskite (jeigu norite, nustatykite "Parašo atvaizdo vietą" į "Pabaigoje dešinėje") ir spauskite "Pasirašyti su: Mobiliuoju telefonu":
+8. Išplėskite skiltį „Mano parašas“, nieko nekeiskite (jeigu norite, nustatykite „Parašo atvaizdo vietą“ į „Pabaigoje dešinėje“) ir spauskite „Pasirašyti su: Mobiliuoju telefonu“:
 
     ![Peticijos pasirašymas](gosign/peticijos-pasirasymas.png)
 
-9. *(nebūtinai)* Išplėskite skiltį "Dokumento parašų tikrinimas" ir patikrinkite, ar abu parašai galioja:
+9. *(nebūtinai)* Išplėskite skiltį „Dokumento parašų tikrinimas“ ir patikrinkite, ar abu parašai galioja:
 
     ![Parašų tikrinimas](gosign/parasu-tikrinimas.png)
 
-10. Apačioje paspauskite ant mygtuko "Atsisiųsti" ir išsaugokite dokumentą "Į kompiuterį":
+10. Apačioje paspauskite ant mygtuko „Atsisiųsti“ ir išsaugokite dokumentą „Į kompiuterį“:
 
     ![Pasirašytos peticijos atsisiuntimas](gosign/pasirasytos-peticijos-atsisiuntimas.png)
 

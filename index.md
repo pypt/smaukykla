@@ -26,7 +26,7 @@ Stebint pastarųjų dienų skiepijimo nuo COVID-19 situaciją Lietuvoje, akivaiz
 * Kanclerė [neina lengviausiu keliu, bet pažeidžiamiausieji neina skiepytis](https://www.15min.lt/naujiena/aktualu/lietuva/sam-kanclere-stengiames-nenueiti-lengviausiu-keliu-ir-pirma-skiepijame-pazeidziamiausius-56-1466252);
 * Metus sėdint prie teliko neužteko laiko apsišviesti dėl vakcinų poveikio, [reikia dar vienos švietimo kampanijos](https://www.lrt.lt/naujienos/lietuvoje/2/1356241/profesorius-perspeja-del-kylanciu-gresmiu-turime-kuo-greiciau-pradeti-svietimo-kampanija-kad-neutralizuotume-pandemiju-neigejus);
 * Skiepijimo centrai [turi per daug vakcinų ir per mažai norinčių iš tikslinės amžiaus grupės](https://www.lrt.lt/naujienos/sveikata/682/1357802/skiepijimo-centrams-nespejant-panaudoti-vakcinu-zadama-aktyviau-vakcinuoti-ir-savaitgaliais);
-* Šalčininkuose [persižiūrėjo "Первый Балтийский" ir vakcinuosis tik Sputniku ir tik pas Batką](https://www.lrt.lt/naujienos/lietuvoje/2/1358744/nuo-covid-19-skuba-skiepytis-ne-visi-dalis-salcininku-gyventoju-laukia-sputnik-v-vakcinos-del-jos-vaziuotu-ir-i-baltarusija);
+* Šalčininkuose [persižiūrėjo „Первый Балтийский“ ir vakcinuosis tik Sputniku ir tik pas Batką](https://www.lrt.lt/naujienos/lietuvoje/2/1358744/nuo-covid-19-skuba-skiepytis-ne-visi-dalis-salcininku-gyventoju-laukia-sputnik-v-vakcinos-del-jos-vaziuotu-ir-i-baltarusija);
 * Kol vieni laukia masinės vakcinacijos gal-rudenį-gal-žiemą-gal-pavasarį-gal-kitą-rudenį, kiti į vakcinaciją [tiesiog neateina](https://www.lrt.lt/naujienos/sveikata/682/1355361/kol-vakcinacija-nuo-covid-19-isibegeja-klaipedoje-issukiu-kelia-nepasirodantys-asmenys-ir-popierizmas).
 
 
@@ -37,12 +37,12 @@ Stebint pastarųjų dienų skiepijimo nuo COVID-19 situaciją Lietuvoje, akivaiz
         <source src="pilietis-laukia-savo-eiles.webm" type="video/webm">  
         <source src="pilietis-laukia-savo-eiles.mp4" type="video/mp4">  
     </video>
-    <figcaption>Povilą Eliją išvargino 2023 m. Kalėdos per "Zoom", taigi jis išmėgino "Visine" lašus akims.</figcaption>
+    <figcaption>Povilą Eliją išvargino 2023 m. Kalėdos per „Zoom“, taigi jis išmėgino „Visine“ lašus akims.</figcaption>
 </figure>
 
 Ši atvertoji smaukykla - **griežtai prioritetizuoti vieną amžiaus grupę prieš kitą** - nors ir vykdoma vardan vyresnio amžiaus žmonių gerovės, neišeis į gerą vyresniam, o ypač jaunesniam:
 
-* **Smaukykla brangiai kainuoja.** Kol senjoras svarsto, kuo tikėti - reklama stotelėje ar pamėgtu rusišku TV kanalu - valstybė yra priversta mokėti subsidijas negalintiems veikti verslams, dalinti bedarbio pašalpas darbą praradusiems; visgi, tikroji kaina paaiškės vėliau, kai visiems reikės mokesčių forma "atkalti" pandemijai suvaldyti ES atspausdintus eurus iš oro;
+* **Smaukykla brangiai kainuoja.** Kol senjoras svarsto, kuo tikėti - reklama stotelėje ar pamėgtu rusišku TV kanalu - valstybė yra priversta mokėti subsidijas negalintiems veikti verslams, dalinti bedarbio pašalpas darbą praradusiems; visgi, tikroji kaina paaiškės vėliau, kai visiems reikės mokesčių forma „atkalti“ pandemijai suvaldyti ES atspausdintus eurus iš oro;
 * **Smaukykla priešina kartas.** Jaunesnis bus mažiau linkęs mokėti Valstybinio socialinio draudimo įmoką, jeigu matys, kad senjoras nesusikrapštė nuvykti iki poliklinikos, nes buvo šalta.
 * **Smaukykla pakankamai nemotyvuoja senjorų.** Senjoras gal ir nebūtų prieš skiepytis, jis tik dėka propagandos sukeltos abejonės nenori būti pirmas (kaip jam atrodo) ir yra linkęs geriau pasėdėti ir pažiūrėti kaip bus; senjorui atrodo, kad jam skubos nėra, vakcina jam visada bus paruošta, iš poliklinikos paskambins dar ir dar kartą, tai galima ir pavasario palaukti.
 * **Smaukykla atveria daug nepatogių etinių klausimų.** Valstybė yra priversta nuspręsti, kas vertesnis gyventi - aštuoniasdešimtmetis senjoras be didesnių ligų ar penkiasdešimtmetis diabetikas; šešiasdešimt penkerių metų buvusi aukšta valstybės pareigūnė ar šešiasdešimt ketverių ligoninės rūbininkė.
@@ -64,7 +64,7 @@ Stebint pastarųjų dienų skiepijimo nuo COVID-19 situaciją Lietuvoje, akivaiz
 
 Šią praktiką [taiko Izraelis](https://www.lrt.lt/naujienos/sveikata/682/1331207/vakcinavimo-eiles-rebusas-kodel-izraelis-skuba-skiepyti-moksleivius-o-indonezija-neskiepija-senjoru) - prie vakcinavimo punktų stovi gyva eilė, o punktui baigus darbą ir jame likus vakcinų, vakcinuojami visi norintys nepriklausomai nuo amžiaus grupės ar sveikatos būklės.
 
-Vakcinavimo proceso "butelio kaklelis" privalo būti ne norinčiųjų skiepytis ar norinčių skiepyti skaičius, amžiaus grupė ar sveikatos būklė, o vien turimos vakcinos kiekis. Kitaip tariant, šaldytuvas su vakcina turi būti visomis išgalėmis neperstojamai tuštinamas, kol tampa tuščias.
+Vakcinavimo proceso „butelio kaklelis“ privalo būti ne norinčiųjų skiepytis ar norinčių skiepyti skaičius, amžiaus grupė ar sveikatos būklė, o vien turimos vakcinos kiekis. Kitaip tariant, šaldytuvas su vakcina turi būti visomis išgalėmis neperstojamai tuštinamas, kol tampa tuščias.
 
 
 ### Siūlomas vakcinavimo organizavimas
@@ -97,7 +97,7 @@ Modelį taip pat būtų galima pradžioje išmėginti tik su vienu vakcinavimo p
         <source src="senjore-prie-kompiuterio.webm" type="video/webm">  
         <source src="senjore-prie-kompiuterio.mp4" type="video/mp4">  
     </video>
-    <figcaption>Paskiepyta senjorė Dalytė, padedama anūkės, rašo "DELFI" komentarą apie tai, kur, jos nuomone, Putinas turėtų susikišti savo "Sputnik V".</figcaption>
+    <figcaption>Paskiepyta senjorė Dalytė, padedama anūkės, rašo „DELFI“ komentarą apie tai, kur, jos nuomone, Putinas turėtų susikišti savo „Sputnik V“.</figcaption>
 </figure>
 
 * **Prioritetinės grupės nariai daug noriau skiepysis dėl jaučiamos konkurencijos** - senjorui vien mintis, kad jaunesnis turi galimybę užlįsti prieš jį į eilę ir panaudoti jam skirtą skiepą, bus pakankamas motyvatorius eiti pasiskiepyti pačiam.
@@ -124,11 +124,11 @@ Jeigu **sutinkate**, kad **vakarais būtų skiepijami visi norinys, tam naudojan
 
 Peticiją iki **kovo 10 d. (trečiadienio)** prašau **pasirašyti elektroniniu parašu** ir **atsiųsti man**:
 
-1. **Atsisiųskite** mano pasirašytą bylą **[`covid-peticija.pdf`](covid-peticija.pdf)**;
+1. **Atsisiųskite** mano pasirašytą bylą <a href="covid-peticija.pdf" download>**`covid-peticija.pdf`**</a>;
 2. **Perskaitykite** peticiją ir įsitikinkite, kad sutinkate su joje išdėstytais prašymais;
 3. **Pasirašykite** bylą elektroniniu parašu:
-    * Jeigu turite mobilųjį parašą, rekomenduoju naudoti ["GoSign"](https://www.gosign.lt/lt/); štai [peticijos pasirašymo su "GoSign" instrukcija](gosign.html);
-    * Jeigu turite "Smart-ID", rekomenduoju naudoti ["Dokobit"](https://www.dokobit.com/lt/); štai [peticijos pasirašymo su "Dokobit" instrukcija](dokobit.html);
+    * Jeigu turite mobilųjį parašą, rekomenduoju naudoti [„GoSign“](https://www.gosign.lt/lt/); štai [peticijos pasirašymo su „GoSign“ instrukcija](gosign.html);
+    * Jeigu turite „Smart-ID“, rekomenduoju naudoti [„Dokobit“](https://www.dokobit.com/lt/); štai [peticijos pasirašymo su „Dokobit“ instrukcija](dokobit.html);
     * Pasirašymui galite naudoti ir kitas priemones, pvz. asmens tapatybės kortelę.
 4. **Atsiųskite** pasirašytą bylą man el. pašto adresu **<peticija@antismaukykla.com>**
     * Patikrinkite, kad siunčiate mūsų abiejų pasirašytą failą, o ne tą, kuris vien su mano parašu!
@@ -158,14 +158,14 @@ Ne.
 
 ### Nenoriu tau siųsti jokių pasirašytų peticijų, nes paimsi greitąjį kreditą mano vardu!
 
-Nepaimsiu (žr. skyrių "Privatumas"), nes peticijos dokumentą pasirašius ir man, ir jums, dėl elektroninio parašo specifikos nepavyktų dokumento niekaip pakeisti. Taip pat nėra būdo parašą kažkokiu būdu "nuimti" ir "uždėti" ant kito dokumento.
+Nepaimsiu, nes peticijos dokumentą pasirašius ir man, ir jums, dėl elektroninio parašo specifikos nepavyktų dokumento niekaip pakeisti. Taip pat nėra būdo parašą kažkokiu būdu „nuimti“ ir „uždėti“ ant kito dokumento.
 
-Neblogai elektroninio parašo veikimo principą yra [aprašęs senesnis "DELFI" straipsnis](https://www.delfi.lt/verslas/verslas/elektroninis-parasas-kas-tai-kaip-veikia-ir-kur-naudoti.d?id=69088658).
+Neblogai elektroninio parašo veikimo principą yra [aprašęs senesnis „DELFI“ straipsnis](https://www.delfi.lt/verslas/verslas/elektroninis-parasas-kas-tai-kaip-veikia-ir-kur-naudoti.d?id=69088658).
 
 
 ### O tai negalim ten paprastai per kokį peticijos.lt pasirašyti?
 
-Daug kas esam "pasirašinėję" peticiją viename iš tam skirtų tinklalapių - už / prieš šuniukus, gėjus, 420, 69, vaiko pinigus, musulmonus, transvestitus, Stambulo konvenciją, "Akropolį" ir kt. Deja, visi tiesiog veltui sugaišome laiką - tos peticijos buvo niekinės, nes nebuvo pasirašytos nei tušinuku, nei elektroniniu parašu.
+Daug kas esam „pasirašinėję“ peticiją viename iš tam skirtų tinklalapių - už / prieš šuniukus, gėjus, 420, 69, vaiko pinigus, musulmonus, transvestitus, Stambulo konvenciją, „Akropolį“ ir kt. Deja, visi tiesiog veltui sugaišome laiką - tos peticijos buvo niekinės, nes nebuvo pasirašytos nei tušinuku, nei elektroniniu parašu.
 
 Dabartinė Peticijų įstatymo redakcija [leidžia](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.84574?jfwid=5sjolfznc) pasirašyti peticiją ir elektroniniu būdu, bet nėra nė vieno tinklapio, kuris leistų tai padaryti. Man atrodo, žinau kodėl - elektroninis parašas kainuoja [pinigus](https://www.dokobit.com/lt/kainos), taigi privačios įmonės nenori mokėti už jūsų peticijos parašus, o viešasis sektorius išvis ne itin suinteresuotas, kad jūs išvis kažką ten pasirašinėtumėt, siųstumėt ir jiems tuomet reikėtų tai svarstyti.
 
@@ -177,14 +177,14 @@ Aš pinigų, skirtų sumokėti už kiekvieno iš pasirašančiųjų elektroninį
 4. Surinkęs visus pasirašytus dokumentus nurodytą datą juos nusiųsiu į Vyriausybės Peticijų komisiją.
 
 
-### Bet tai jeigu savo laiške Vyriausybei rašysi žodį "smaukykla", tai gali nelabai rimtai į tave pažiūrėti
+### Bet tai jeigu savo laiške Vyriausybei rašysi žodį „smaukykla“, tai gali nelabai rimtai į tave pažiūrėti
 
-Na, tai gal tada žodžio "smaukykla" pačioje peticijoje nerašysiu.
+Na, tai gal tada žodžio „smaukykla“ pačioje peticijoje nerašysiu.
 
 
 ### O tu gal partinis - riešutauji su konservais, duoneliauji su žalstiečiais, prie vieno pečiaus su socdemais, arba - dar blogiau - koks nors ten laisvapartininkas?
 
-Ne. Judėjimas "Uždarykime smaukyklą COVID-19 skiepijime!" nėra politinis - judėjimas yra antismaukyklinis.
+Ne. Judėjimas „Uždarykime smaukyklą COVID-19 skiepijime!“ nėra politinis - judėjimas yra antismaukyklinis.
 
 
 ### Nusikopijavai idėją nuo Tapino?
@@ -231,6 +231,6 @@ Juokai juokais, bet jūsų asmens duomenų **nenaudosiu niekur kitur** išskyrus
 
 Pagalbinių priemonių privatumo politikos:
 
-* Svetainė yra laikoma "GitHub Inc." serveriuose: <https://docs.github.com/en/github/site-policy/github-privacy-statement>
-* Svetainė greičiau veikia dėka "Cloudflare Inc.": <https://www.cloudflare.com/privacypolicy/>
-* Peticijų paštą aptarnauja "Proton Technologies AG": <https://protonmail.com/privacy-policy>
+* Svetainė yra laikoma „GitHub Inc.“ serveriuose: <https://docs.github.com/en/github/site-policy/github-privacy-statement>
+* Svetainė greičiau veikia dėka „Cloudflare Inc.“: <https://www.cloudflare.com/privacypolicy/>
+* Peticijų paštą aptarnauja „Proton Technologies AG“: <https://protonmail.com/privacy-policy>
