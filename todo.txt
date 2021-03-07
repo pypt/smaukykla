@@ -4,4 +4,4 @@ og:bullshit
 title, description
 fixme
 mobile viewport / scrolling
-atversti atgal i gifus
+table of contents
