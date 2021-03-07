@@ -185,6 +185,11 @@ Na, tai gal tada žodžio "smaukykla" pačioje peticijoje nerašysiu.
 Ne. Judėjimas "Uždarykime smaukyklą COVID-19 skiepijime!" nėra politinis - judėjimas yra antismaukyklinis.
 
 
+### Nusikopijavai idėją nuo Tapino?
+
+Tiesą sakant, va dabar sėdžiu ir žiūriu už / prieš ką ten Tapinas parašus rinko, nes ką tik apie tai sužinojau. Visą savaitę mačiau kažkokias dėžes, kurias kažkas kažkur nešė, bet nesupratau apie ką jie visi šneka.
+
+
 ### Kaip atšaukti savo parašą?
 
 Jokių problemų - parašykite <peticija@antismaukykla.com>. Vis dėlto, turėkite omenyje, kad FIXME datą peticiją siųsiu Vyriausybės Peticijų komisijai, tad jeigu norėsite atšaukti savo parašą po šios datos, turėsite kreiptis tiesiai ten.
