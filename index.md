@@ -120,11 +120,11 @@ Jeigu konkrečiau, tai peticija siekiama pakeisti [Sveikatos apsaugos ministro �
 
 Jeigu sutinkate, kad vakarais būtų skiepijami visi norinys, tam naudojant dienos metu likusią nepanaudotą vakciną, kviečiu pasirašyti šią peticiją.
 
-Peticiją iki **FIXME** datos prašau **pasirašyti sertifikuotu elektroniniu parašu** ir **atsiųsti man**:
+Peticiją iki **FIXME** datos prašau **pasirašyti elektroniniu parašu** ir **atsiųsti man**:
 
 1. **Atsisiųskite** mano pasirašytą bylą **[`covid-peticija.pdf`](covid-peticija.pdf)**;
 2. **Perskaitykite** peticiją ir įsitikinkite, kad sutinkate su joje išdėstytais prašymais;
-3. **Pasirašykite** bylą sertifikuotu elektroniniu parašu:
+3. **Pasirašykite** bylą elektroniniu parašu:
     * Jeigu turite mobilųjį parašą, rekomenduoju naudoti ["GoSign"](https://www.gosign.lt/lt/); štai [peticijos pasirašymo su "GoSign" instrukcija](gosign.html);
     * Jeigu turite "Smart-ID", rekomenduoju naudoti ["Dokobit"](https://www.dokobit.com/lt/); štai [peticijos pasirašymo su "Dokobit" instrukcija](dokobit.html);
     * Pasirašymui galite naudoti ir kitas priemones, pvz. asmens tapatybės kortelę.
@@ -207,7 +207,7 @@ Aš esu Linas Valiukas, vilnietis, žurnalistas pagal išsilavinimą ir programu
 
 ## Privatumas
 
-Jeigu nuspręsite pasirašyti mano paruoštą peticiją ir ją atsiųsti man, aš gausiu dokumentą, kuriame bus įrašytas jūsų vardas, pavardė, el. pašto adresas (ne visada) ir asmens kodas. Tai yra standartinė informacija, kuri įrašoma į visus sertifikuotu elektroniniu parašu pasirašomus dokumentus.
+Jeigu nuspręsite pasirašyti mano paruoštą peticiją ir ją atsiųsti man, aš gausiu dokumentą, kuriame bus įrašytas jūsų vardas, pavardė, el. pašto adresas (ne visada) ir asmens kodas. Tai yra standartinė informacija, kuri įrašoma į visus elektroniniu parašu pasirašomus dokumentus.
 
 Kadangi jūsų pasirašytą dokumentą pirmasis pasirašiau aš, dokumento paraše galite rasti ir mano vardą, pavardę bei asmens kodą, todėl (**pajuokaujant!**) jeigu aš, naudodamasis šiais duomenimis apie jus, sugebėsiu paimti greitąjį kreditą ant jūsų, tai jūs tada galėsite paimti greitąjį kreditą atgal ant manęs :)
 
