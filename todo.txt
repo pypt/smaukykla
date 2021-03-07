@@ -1,10 +1,8 @@
-data
 tema
 favicon
 og:bullshit
 title, description
 fixme
 mobile viewport / scrolling
-peticijos pdf
-pasirasyti peticijos pdf
-duplicates
+lietuvishkos kabutes
+atversti atgal i gifus

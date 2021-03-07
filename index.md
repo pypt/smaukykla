@@ -64,6 +64,8 @@ Stebint pastarųjų dienų skiepijimo nuo COVID-19 situaciją Lietuvoje, akivaiz
 
 Šią praktiką [taiko Izraelis](https://www.lrt.lt/naujienos/sveikata/682/1331207/vakcinavimo-eiles-rebusas-kodel-izraelis-skuba-skiepyti-moksleivius-o-indonezija-neskiepija-senjoru) - prie vakcinavimo punktų stovi gyva eilė, o punktui baigus darbą ir jame likus vakcinų, vakcinuojami visi norintys nepriklausomai nuo amžiaus grupės ar sveikatos būklės.
 
+Vakcinavimo proceso "butelio kaklelis" privalo būti ne norinčiųjų skiepytis ar norinčių skiepyti skaičius, amžiaus grupė ar sveikatos būklė, o vien turimos vakcinos kiekis. Kitaip tariant, šaldytuvas su vakcina turi būti visomis išgalėmis neperstojamai tuštinamas, kol tampa tuščias.
+
 
 ### Siūlomas vakcinavimo organizavimas
 
@@ -75,9 +77,9 @@ Stebint pastarųjų dienų skiepijimo nuo COVID-19 situaciją Lietuvoje, akivaiz
     <figcaption>Smaukyklai užsidarius, šviežiai motyvuotas senjoras Anicetas akcentuoja jaunuoliui savo prioritetinę eilę skiepytis.</figcaption>
 </figure>
 
-Peticijoje siūlome nutraukti smaukyklinę praktiką - **maldavimą, įtikinėjimą, dūsavimą, rankų grąžymą, socialinių tinklų kaltinimą** - ir rekomenduojame pritaikyti šį vakcinavimo organizavimo modelį kiekvienam vakcinavimo punktui:
+Peticija siekiama pakeisti [Sveikatos apsaugos ministro įsakymą dėl COVID-19 skiepijimo prioritetų](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/fd056f90469711ebb394e1efb98d3e67/asr). Peticijoje siūlome nutraukti smaukyklinę praktiką - **maldavimą, įtikinėjimą, dūsavimą, rankų grąžymą, socialinių tinklų kaltinimą** - ir rekomenduojame pritaikyti šį vakcinavimo organizavimo modelį kiekvienam vakcinavimo punktui:
 
-1. Apskaičiuojamas kiekis vakcinų, kurias galima panaudoti per dieną kiekviename vakcinavimo punkte priklausomai nuo punkto pajėgumų ir turimų vakcinų kiekio, bet **neatsižvelgiant** į tą dieną norinčių skiepytis iš prioritetinės grupės skaičių;
+1. Apskaičiuojamas kiekis vakcinų, kurias galima panaudoti per dieną kiekviename vakcinavimo punkte, priklausomai nuo punkto pajėgumų ir turimų vakcinų kiekio, bet **neatsižvelgiant** į tą dieną norinčių skiepytis iš prioritetinės grupės skaičių;
 2. Kiekvienam norinčiam skiepytis iš prioritetinės grupės priskiriama tos dienos vieta eilėje;
 3. Dienos metu skiepijami tą dieną pakviesti ir atvykę prioritetinės grupės asmenys;
 4. Dienos pabaigoje skiepijami visi norintys, naudojant likusias vakcinas iš tos dienos normos;
@@ -86,8 +88,6 @@ Peticijoje siūlome nutraukti smaukyklinę praktiką - **maldavimą, įtikinėji
     2. Prioritetinės grupės asmuo, pakviestas ir neatvykęs nei savo paskirtos dienos metu, nei vakare, gali kreiptis į sveikatos priežiūros įstaigą ir suplanuoti kitą vizitą vakcinacijai (priklausomai nuo turimų vakcinų kiekio).
 
 Modelį taip pat būtų galima pradžioje išmėginti tik su vienu vakcinavimo punktu, pvz. viena poliklinika.
-
-Jeigu konkrečiau, tai peticija siekiama pakeisti [Sveikatos apsaugos ministro įsakymą dėl COVID-19 skiepijimo prioritetų](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/fd056f90469711ebb394e1efb98d3e67/asr), jame apibrėžiant aukščiau siūlomą tvarką.
 
 
 ### Siūlymo privalumai
@@ -122,7 +122,7 @@ Jeigu **sutinkate**, kad **vakarais būtų skiepijami visi norinys, tam naudojan
 
 Ši peticija yra kiek kitokia nei kitos peticijos internete, nes ją mėginu pateikti pagal [Peticijų įstatymo](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.84574?jfwid=5sjolfznc) reikalavimus - noriu, kad ją ne tik pashare'intų ir palike'intų socialiniuose tinkluose, bet ir realiai kažkas privalėtų svarstyti. Todėl norinčius prisidėti prie peticijos prašau ją pasirašyti elektroniniu parašu.
 
-Peticiją iki **FIXME** datos prašau **pasirašyti elektroniniu parašu** ir **atsiųsti man**:
+Peticiją iki **kovo 10 d. (trečiadienio)** prašau **pasirašyti elektroniniu parašu** ir **atsiųsti man**:
 
 1. **Atsisiųskite** mano pasirašytą bylą **[`covid-peticija.pdf`](covid-peticija.pdf)**;
 2. **Perskaitykite** peticiją ir įsitikinkite, kad sutinkate su joje išdėstytais prašymais;
@@ -133,7 +133,7 @@ Peticiją iki **FIXME** datos prašau **pasirašyti elektroniniu parašu** ir **
 4. **Atsiųskite** pasirašytą bylą man el. pašto adresu **<peticija@antismaukykla.com>**
     * Patikrinkite, kad siunčiate mūsų abiejų pasirašytą failą, o ne tą, kuris vien su mano parašu!
 
-Gautas peticijas FIXME datą pagal Peticijų įstatymo reikalavimus išsiųsiu [Vyriausybės Peticijų komisijai](https://epilietis.lrv.lt/darbo-grupes/peticiju-komisija).
+Gautas peticijas kovo 10 d. (trečiadienį) pagal Peticijų įstatymo reikalavimus išsiųsiu [Vyriausybės Peticijų komisijai](https://epilietis.lrv.lt/darbo-grupes/peticiju-komisija).
 
 
 ## Smaukyklos uždarymo peticijos chronologija
@@ -199,7 +199,7 @@ Nežinau, reikės sutikrint kažkaip. Nesunku, manau, turėtų būti technologin
 
 ### Kaip atšaukti savo parašą?
 
-Jokių problemų - parašykite <peticija@antismaukykla.com>. Vis dėlto, turėkite omenyje, kad FIXME datą peticiją siųsiu Vyriausybės Peticijų komisijai, tad jeigu norėsite atšaukti savo parašą po šios datos, turėsite kreiptis tiesiai ten.
+Jokių problemų - parašykite <peticija@antismaukykla.com>. Vis dėlto, turėkite omenyje, kad kovo 10 d. (trečiadienį) peticiją siųsiu Vyriausybės Peticijų komisijai, tad jeigu norėsite atšaukti savo parašą po šios datos, turėsite kreiptis tiesiai ten.
 
 
 ### Kas tu toks?
@@ -228,3 +228,9 @@ Kadangi jūsų pasirašytą dokumentą pirmasis pasirašiau aš, dokumento para�
 Juokai juokais, bet jūsų asmens duomenų **nenaudosiu niekur kitur** išskyrus aukščiau aprašytos peticijos pateikimą Vyriausybės Peticijų komisijai. Duomenų neperduosiu šalims, nesusijusiomis su peticijos pateikimu, nepadovanosiu, neparduosiu, nerodysiu draugeliams, neskaitysiu pavardžių ir nežvengsiu, žodžiu, nepadarysiu su jais CityBee.
 
 Įsitikinęs, kad peticija priimta ir daugiau surinktų duomenų (pasirašytų peticijos kopijų) nebereikės, ištrinsiu visas turimas peticijos kopijas, o tuo pačiu ir jūsų asmens duomenis.
+
+Pagalbinių priemonių privatumo politikos:
+
+* Svetainė yra laikoma "GitHub Inc." serveriuose: <https://docs.github.com/en/github/site-policy/github-privacy-statement>
+* Svetainė greičiau veikia dėka "Cloudflare Inc.": <https://www.cloudflare.com/privacypolicy/>
+* Peticijų paštą aptarnauja "Proton Technologies AG": <https://protonmail.com/privacy-policy>
