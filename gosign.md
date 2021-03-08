@@ -9,7 +9,7 @@ permalink: /gosign.html
 
 Turint mobilųjį elektroninį parašą, itin paprasta dokumentus pasirašyti su „GoSign“.
 
-1. Atsisiųskite failą <a href="covid-peticija.pdf" download>`covid-peticija.pdf`</a> su mano parašu.
+1. Atsisiųskite failą *<a href="covid-peticija.pdf">covid-peticija.pdf</a>* su mano parašu.
 2. Perskaitykite peticijos tekstą, jeigu dar neperskaitėte.
 3. Eikite į <https://www.gosign.lt/lt/>
 4. Spauskite „Prisijungti“:
@@ -24,7 +24,7 @@ Turint mobilųjį elektroninį parašą, itin paprasta dokumentus pasirašyti su
 
     ![Prisijungimas kaip fiziniui asmeniui](media/gosign/prisijungti-fizinis-asmuo.png)
 
-7. Atsidariusiame dokumentų sąraše pavažiuokite truputį žemyn, blokelyje „Įkelti naują dokumentą“ spauskite „Iš kompiuterio“ ir pasirinkite anksčiau atsisiųstą `covid-peticija.pdf`:
+7. Atsidariusiame dokumentų sąraše pavažiuokite truputį žemyn, blokelyje „Įkelti naują dokumentą“ spauskite „Iš kompiuterio“ ir pasirinkite anksčiau atsisiųstą *covid-peticija.pdf*:
 
     ![Peticijos įkėlimas pasirašymui](media/gosign/peticijos-ikelimas-pasirasymui.png)
 

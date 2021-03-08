@@ -9,7 +9,7 @@ permalink: /dokobit.html
 
 Turint „Smart-ID“ paskyrą su kvalifikuotu elektroniniu parašu, itin paprasta dokumentus pasirašyti su "Dokobit".
 
-1. Atsisiųskite failą <a href="covid-peticija.pdf" download>`covid-peticija.pdf`</a> su mano parašu.
+1. Atsisiųskite failą *<a href="covid-peticija.pdf">covid-peticija.pdf</a>* su mano parašu.
 2. Perskaitykite peticijos tekstą, jeigu dar neperskaitėte.
 3. Eikite į <https://www.dokobit.com/lt/>
 4. Užsiregistruokite, jeigu anksčiau nesate to padaręs; registracijai naudokite „Smart-ID“ paskyrą.
@@ -21,7 +21,7 @@ Turint „Smart-ID“ paskyrą su kvalifikuotu elektroniniu parašu, itin papras
 
     ![Dokumento įkėlimas](media/dokobit/dokumento-ikelimas.png)
 
-7. Užvilkite anksčiau atsisiųstą `covid-peticija.pdf` ant tam skirtos vietos arba paspauskite nuorodą „Įkelti“, tuomet žemiau paspauskite mygtuką „Tęsti“:
+7. Užvilkite anksčiau atsisiųstą *covid-peticija.pdf* ant tam skirtos vietos arba paspauskite nuorodą „Įkelti“, tuomet žemiau paspauskite mygtuką „Tęsti“:
 
     ![Dokumento įkėlimas](media/dokobit/dokumento-ikelimas-2.png)
 

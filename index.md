@@ -132,7 +132,7 @@ Jeigu **sutinkate**, kad **vakarais būtų skiepijami visi norinys, tam naudojan
 
 Peticiją iki **kovo 10 d. (trečiadienio)** prašau **pasirašyti elektroniniu parašu** ir **atsiųsti man**:
 
-1. **Atsisiųskite** mano pasirašytą bylą <a href="covid-peticija.pdf">**`covid-peticija.pdf`**</a>;
+1. **Atsisiųskite** mano pasirašytą bylą *<a href="covid-peticija.pdf">covid-peticija.pdf</a>*;
 2. **Perskaitykite** peticiją ir įsitikinkite, kad sutinkate su joje išdėstytais prašymais;
 3. **Pasirašykite** bylą elektroniniu parašu:
     * Jeigu turite mobilųjį parašą, rekomenduoju naudoti [„GoSign“](https://www.gosign.lt/lt/); štai [peticijos pasirašymo su „GoSign“ instrukcija](gosign.html);
