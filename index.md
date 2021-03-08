@@ -34,7 +34,7 @@ Vakarais skiepykime visus norinčius, tam naudodami dienos metu likusią nepanau
 
 ## Dabartinis smaukyklos statusas
 
-Šiuo metu (2021 m. kovo 7 d.) **smaukykla** COVID-19 skiepijime vis dar yra **atidaryta**.
+Šiuo metu (2021 m. kovo 8 d.) **smaukykla** COVID-19 skiepijime vis dar yra **atidaryta**.
 
 
 ## Smaukyklos aprašymas
