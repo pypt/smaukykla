@@ -18,13 +18,13 @@ Vakarais skiepykime visus norinčius, tam naudodami dienos metu likusią nepanau
 <!-- TOC-START -->
 
 * [Dabartinis smaukyklos statusas](#dabartinis-smaukyklos-statusas)
+* [Smaukyklos uždarymo peticijos chronologija](#smaukyklos-uždarymo-peticijos-chronologija)
 * [Smaukyklos aprašymas](#smaukyklos-aprašymas)
 * [Smaukyklos problematika](#smaukyklos-problematika)
 * [Peticijos siūlymas](#peticijos-siūlymas)
 * [Siūlomas vakcinavimo organizavimas](#siūlomas-vakcinavimo-organizavimas)
 * [Siūlymo privalumai](#siūlymo-privalumai)
-* **[Tapk antismaukyklininku - PASIRAŠYK PETICIJĄ!](#tapk-antismaukyklininku---pasirašyk-peticiją)**
-* [Smaukyklos uždarymo peticijos chronologija](#smaukyklos-uždarymo-peticijos-chronologija)
+* [Peticijos tekstas](#peticijos-tekstas)
 * [Klausimai - atsakymai](#klausimai---atsakymai)
 * [Privatumas](#privatumas)
 
@@ -34,7 +34,16 @@ Vakarais skiepykime visus norinčius, tam naudodami dienos metu likusią nepanau
 
 ## Dabartinis smaukyklos statusas
 
-Šiuo metu (2021 m. kovo 8 d.) **smaukykla** COVID-19 skiepijime vis dar yra **atidaryta**.
+Šiuo metu (2021 m. kovo 10 d.) **smaukykla** COVID-19 skiepijime vis dar yra **atidaryta**.
+
+
+## Smaukyklos uždarymo peticijos chronologija
+
+* 2021-03-10: 42 asmenų pasirašyta peticija išsiųsta LR Vyriausybės Peticijų komisijai:
+
+    ![Išsiųsta peticija](media/issiusta-peticija.png)
+
+* 2021-03-06: Parengta pirminė smaukyklos uždarymo svetainės versija.
 
 
 ## Smaukyklos aprašymas
@@ -119,34 +128,18 @@ Modelį taip pat būtų galima pradžioje išmėginti tik su vienu vakcinavimo p
 * **Dalis vakcinos skeptikų tokiais nebeliks išvydę vakcinos paklausą.** Įsivaizduojate mūsų rusakalbių bendrapiliečių Šalčininkuose reakciją, jeigu ordos šiauliečių miškais ir pelkėmis prasmuktų į Šalčininkų rajoną ir sustotų į eilę skiepytis prieš juos?
 
 
-## Tapk antismaukyklininku - PASIRAŠYK PETICIJĄ!
+## Peticijos tekstas
 
 <figure class="image">
     <img src="media/pasirasoma-peticija.gif" alt="Pasirašoma peticija" />
     <figcaption>Algis pritaria peticijoje išsakytiems teiginiams, todėl ją nusprendė pasirašyti elektroniniu parašu; visgi, prisiminti sPIN 1 ir sPIN 2 kodus - kaskart iššūkis.</figcaption>
 </figure>
 
-Jeigu **sutinkate**, kad **vakarais būtų skiepijami visi norinys, tam naudojant dienos metu likusią nepanaudotą vakciną**, kviečiu pasirašyti šią peticiją.
+Peticiją pasirašė **42** asmenys, kurių nuomone **vakarais turėtų būti leista skiepyti visus norinčius, tam naudojant dienos metu likusią nepanaudotą vakciną**.
 
-Ši peticija yra kiek kitokia nei kitos peticijos internete, nes ją mėginu pateikti pagal [Peticijų įstatymo](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.84574?jfwid=5sjolfznc) reikalavimus - noriu, kad ją ne tik pashare'intų ir palike'intų socialiniuose tinkluose, bet ir realiai kažkas privalėtų svarstyti. Todėl norinčius prisidėti prie peticijos prašau ją pasirašyti elektroniniu parašu.
+Pasirašytos peticijos tekstas: *<a href="covid-peticija.pdf">covid-peticija.pdf</a>*
 
-Peticiją iki **kovo 10 d. (trečiadienio)** prašau **pasirašyti elektroniniu parašu** ir **atsiųsti man**:
-
-1. **Atsisiųskite** mano pasirašytą bylą *<a href="covid-peticija.pdf">covid-peticija.pdf</a>*;
-2. **Perskaitykite** peticiją ir įsitikinkite, kad sutinkate su joje išdėstytais prašymais;
-3. **Pasirašykite** bylą elektroniniu parašu:
-    * Jeigu turite mobilųjį parašą, rekomenduoju naudoti [„GoSign“](https://www.gosign.lt/lt/); štai [peticijos pasirašymo su „GoSign“ instrukcija](gosign.html);
-    * Jeigu turite „Smart-ID“, rekomenduoju naudoti [„Dokobit“](https://www.dokobit.com/lt/); štai [peticijos pasirašymo su „Dokobit“ instrukcija](dokobit.html);
-    * Pasirašymui galite naudoti ir kitas priemones, pvz. asmens tapatybės kortelę.
-4. **Atsiųskite** pasirašytą bylą man el. pašto adresu **<peticija@antismaukykla.com>**
-    * Patikrinkite, kad siunčiate mūsų abiejų pasirašytą failą, o ne tą, kuris vien su mano parašu!
-
-Gautas peticijas kovo 10 d. (trečiadienį) pagal Peticijų įstatymo reikalavimus išsiųsiu [Vyriausybės Peticijų komisijai](https://epilietis.lrv.lt/darbo-grupes/peticiju-komisija).
-
-
-## Smaukyklos uždarymo peticijos chronologija
-
-* 2021-03-06: Parengta pirminė smaukyklos uždarymo svetainės versija.
+Gautas 42 peticijas kovo 10 d. (trečiadienį) pagal Peticijų įstatymo reikalavimus išsiunčiau [Vyriausybės Peticijų komisijai](https://epilietis.lrv.lt/darbo-grupes/peticiju-komisija).
 
 
 ## Klausimai - atsakymai
