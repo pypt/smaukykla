@@ -40,7 +40,11 @@ Vakarais skiepykime visus norinčius, tam naudodami dienos metu likusią nepanau
 ## Smaukyklos uždarymo peticijos chronologija
 
 * 2021-03-24: sprendimo dėl peticijos nagrinėjimo terminas.
-* 2021-03-17: peticijos registracijos terminas.
+* 2021-03-17: peticija užregistruota:
+
+    ![Užregistruota peticija](media/uzregistruota-peticija.png)
+
+
 * 2021-03-10: 42 asmenų pasirašyta peticija išsiųsta LR Vyriausybės Peticijų komisijai:
 
     ![Išsiųsta peticija](media/issiusta-peticija.png)
