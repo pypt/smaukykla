@@ -40,4 +40,4 @@ Turint mobilųjį elektroninį parašą, itin paprasta dokumentus pasirašyti su
 
     ![Pasirašytos peticijos atsisiuntimas](media/gosign/pasirasytos-peticijos-atsisiuntimas.png)
 
-11. Atsisiųstą dokumentą su **abiem parašais** (nesumaišykite su tuo, kuris tik su mano parašu) atsiųskite el. paštu <peticija@antismaukykla.com>.
+11. Atsisiųstą dokumentą su **abiem parašais** (nesumaišykite su tuo, kuris tik su mano parašu) atsiųskite el. paštu <linas.valiukas@gmail.com>.

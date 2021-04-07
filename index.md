@@ -206,7 +206,7 @@ Nežinau, reikės sutikrint kažkaip. Nesunku, manau, turėtų būti technologin
 
 ### Kaip atšaukti savo parašą?
 
-Jokių problemų - parašykite <peticija@antismaukykla.com>. Vis dėlto, turėkite omenyje, kad kovo 10 d. (trečiadienį) peticiją siųsiu Vyriausybės Peticijų komisijai, tad jeigu norėsite atšaukti savo parašą po šios datos, turėsite kreiptis tiesiai ten.
+Jokių problemų - parašykite <linas.valiukas@gmail.com>. Vis dėlto, turėkite omenyje, kad kovo 10 d. (trečiadienį) peticiją siųsiu Vyriausybės Peticijų komisijai, tad jeigu norėsite atšaukti savo parašą po šios datos, turėsite kreiptis tiesiai ten.
 
 
 ### Kas tu toks?
@@ -216,7 +216,7 @@ Jokių problemų - parašykite <peticija@antismaukykla.com>. Vis dėlto, turėki
     <figcaption>Linas Valiukas - programuotojas, žurnalistas, antismaukyklininkas.</figcaption>
 </figure>
 
-Aš esu Linas Valiukas, vilnietis, žurnalistas pagal išsilavinimą ir programuotojas pagal profesiją. Pasisakau už vakcinas ir prieš smaukyklas. Su manimi galite susisiekti adresu <peticija@antismaukykla.com>.
+Aš esu Linas Valiukas, vilnietis, žurnalistas pagal išsilavinimą ir programuotojas pagal profesiją. Pasisakau už vakcinas ir prieš smaukyklas. Su manimi galite susisiekti adresu <linas.valiukas@gmail.com>.
 
 
 ## Privatumas

@@ -37,4 +37,4 @@ Turint „Smart-ID“ paskyrą su kvalifikuotu elektroniniu parašu, itin papras
 
     ![Pasirašytos peticijos atsisiuntimas](media/dokobit/pasirasytos-peticijos-atsisiuntimas.png)
 
-11. Atsisiųstą dokumentą su **abiem parašais** (nesumaišykite su tuo, kuris tik su mano parašu) atsiųskite el. paštu <peticija@antismaukykla.com>.
+11. Atsisiųstą dokumentą su **abiem parašais** (nesumaišykite su tuo, kuris tik su mano parašu) atsiųskite el. paštu <linas.valiukas@gmail.com>.
