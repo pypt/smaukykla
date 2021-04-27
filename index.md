@@ -34,12 +34,14 @@ Vakarais skiepykime visus norinčius, tam naudodami dienos metu likusią nepanau
 
 ## Dabartinis smaukyklos statusas
 
-Šiuo metu (2021 m. kovo 10 d.) **smaukykla** COVID-19 skiepijime vis dar yra **atidaryta**.
+Šiuo metu (2021 m. balandžio 27 d.) **smaukykla** COVID-19 skiepijime vis dar yra **atidaryta**.
 
 
 ## Smaukyklos uždarymo peticijos chronologija
 
-* 2021-04-12: sprendimo dėl peticijos nagrinėjimo terminas.
+* 2021-05-17: naujas peticijos pripažinimo ir nagrinėjimo terminas.
+* 2021-04-19: gautas [SAM komentaras](sam-atsakymas.pdf) dėl peticijos siūlymo; peticijos nagrinėjimas vėl nusikelia;
+* 2021-04-12: pirminis sprendimo dėl peticijos nagrinėjimo terminas.
 * 2021-03-15: peticija užregistruota:
 
     ![Užregistruota peticija](media/uzregistruota-peticija.png)
